@@ -1,7 +1,18 @@
 {
-  "latest_version": "2026.05.28.007",
-  "updated_at": "2026-05-28T12:55:07.679445+08:00",
+  "latest_version": "2026.05.28.008",
+  "updated_at": "2026-05-28T13:04:38.510048+08:00",
   "releases": [
+    {
+      "version": "2026.05.28.008",
+      "published_at": "2026-05-28T13:04:38.461495+08:00",
+      "title": "素材發布",
+      "summary": "本機發布包產生完成：素材包 4 個，素材 16 筆。",
+      "report": "releases/2026.05.28.008/report.md",
+      "release_file": "releases/2026.05.28.008/release.json",
+      "diff": "releases/2026.05.28.008/diff.json",
+      "validation": "releases/2026.05.28.008/validation.json",
+      "status": "published_local"
+    },
     {
       "version": "2026.05.28.007",
       "published_at": "2026-05-28T12:55:07.620432+08:00",
