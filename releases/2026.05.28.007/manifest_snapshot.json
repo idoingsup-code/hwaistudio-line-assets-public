@@ -7,12 +7,12 @@
   "packs_file": "data/packs.json",
   "announcement_file": "data/announcement.json",
   "release_index_file": "data/release_index.json",
-  "updated_at": "2026-05-28T12:55:07.692170+08:00",
+  "updated_at": "2026-05-28T13:22:18.815615+08:00",
   "integrity": {
     "brand_sha256": "f6ebc8a4318f73cae60986c8fe6f3f519a0dbe15a1277974c11d5644bddfdd2e",
-    "packs_sha256": "f5b8309ea3c058055254ec84b0a840705612c2770d35bd61b549f6cb5d67df47",
+    "packs_sha256": "00d0eb531626f414e74c669073c3eeb95777847cc3d25a8d067e8ac90c76a0d8",
     "announcement_sha256": "99d16c70dc71980011a3bf5fb6d27a7c51bf8b57d7ff94d66ea85e2f625875f0",
-    "release_index_sha256": "cdb68b80eac522373bf3352afc2b58efeddfa76ee85067c1e4ad970537727e55"
+    "release_index_sha256": "9ff28bb9c521e5694e0ce267a2a8df815fcab9ab650a9798ba81fcf792cc7c4d"
   },
   "signature": {
     "enabled": false,

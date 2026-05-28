@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-28T13:10:10.745282+08:00",
+  "updated_at": "2026-05-28T13:22:18.739557+08:00",
   "pack_groups": [
     {
       "id": "system",
@@ -49,9 +49,9 @@
     },
     {
       "id": "dog",
-      "display_name": "柴犬狗",
+      "display_name": "柴犬",
       "group": "system",
-      "media_group": "sticker",
+      "media_group": "mixed",
       "sort": 16,
       "enabled": true,
       "type": "official",
@@ -68,7 +68,7 @@
       "file": "assets/stickers/dog/dog_01.png",
       "thumb": "thumbs/stickers/dog/dog_01.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 10,
@@ -88,7 +88,7 @@
       "file": "assets/stickers/dog/dog_02.png",
       "thumb": "thumbs/stickers/dog/dog_02.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 20,
@@ -108,7 +108,7 @@
       "file": "assets/stickers/dog/dog_03.png",
       "thumb": "thumbs/stickers/dog/dog_03.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 30,
@@ -128,7 +128,7 @@
       "file": "assets/stickers/dog/dog_04.png",
       "thumb": "thumbs/stickers/dog/dog_04.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 40,
@@ -148,7 +148,7 @@
       "file": "assets/stickers/dog/dog_05.png",
       "thumb": "thumbs/stickers/dog/dog_05.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 50,
@@ -168,7 +168,7 @@
       "file": "assets/stickers/dog/dog_06.png",
       "thumb": "thumbs/stickers/dog/dog_06.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 60,
@@ -188,7 +188,7 @@
       "file": "assets/stickers/dog/dog_07.png",
       "thumb": "thumbs/stickers/dog/dog_07.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 70,
@@ -208,7 +208,7 @@
       "file": "assets/stickers/dog/dog_08.png",
       "thumb": "thumbs/stickers/dog/dog_08.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 80,
@@ -228,7 +228,7 @@
       "file": "assets/stickers/dog/dog_09.png",
       "thumb": "thumbs/stickers/dog/dog_09.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 90,
@@ -248,7 +248,7 @@
       "file": "assets/stickers/dog/dog_10.png",
       "thumb": "thumbs/stickers/dog/dog_10.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 100,
@@ -268,7 +268,7 @@
       "file": "assets/stickers/dog/dog_11.png",
       "thumb": "thumbs/stickers/dog/dog_11.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 110,
@@ -288,7 +288,7 @@
       "file": "assets/stickers/dog/dog_12.png",
       "thumb": "thumbs/stickers/dog/dog_12.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 120,
@@ -308,7 +308,7 @@
       "file": "assets/stickers/dog/dog_13.png",
       "thumb": "thumbs/stickers/dog/dog_13.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 130,
@@ -328,7 +328,7 @@
       "file": "assets/stickers/dog/dog_14.png",
       "thumb": "thumbs/stickers/dog/dog_14.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 140,
@@ -348,7 +348,7 @@
       "file": "assets/stickers/dog/dog_15.png",
       "thumb": "thumbs/stickers/dog/dog_15.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 150,
@@ -368,7 +368,7 @@
       "file": "assets/stickers/dog/dog_16.png",
       "thumb": "thumbs/stickers/dog/dog_16.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 160,

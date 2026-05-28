@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-28T12:55:07.620432+08:00",
+  "updated_at": "2026-05-28T13:22:18.739557+08:00",
   "pack_groups": [
     {
       "id": "system",
@@ -49,9 +49,9 @@
     },
     {
       "id": "dog",
-      "display_name": "柴犬狗",
+      "display_name": "柴犬",
       "group": "system",
-      "media_group": "sticker",
+      "media_group": "mixed",
       "sort": 16,
       "enabled": true,
       "type": "official",
@@ -68,7 +68,7 @@
       "file": "assets/stickers/dog/dog_01.png",
       "thumb": "thumbs/stickers/dog/dog_01.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 10,
@@ -88,7 +88,7 @@
       "file": "assets/stickers/dog/dog_02.png",
       "thumb": "thumbs/stickers/dog/dog_02.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 20,
@@ -108,7 +108,7 @@
       "file": "assets/stickers/dog/dog_03.png",
       "thumb": "thumbs/stickers/dog/dog_03.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 30,
@@ -128,7 +128,7 @@
       "file": "assets/stickers/dog/dog_04.png",
       "thumb": "thumbs/stickers/dog/dog_04.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 40,
@@ -148,7 +148,7 @@
       "file": "assets/stickers/dog/dog_05.png",
       "thumb": "thumbs/stickers/dog/dog_05.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 50,
@@ -168,7 +168,7 @@
       "file": "assets/stickers/dog/dog_06.png",
       "thumb": "thumbs/stickers/dog/dog_06.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 60,
@@ -188,7 +188,7 @@
       "file": "assets/stickers/dog/dog_07.png",
       "thumb": "thumbs/stickers/dog/dog_07.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 70,
@@ -208,7 +208,7 @@
       "file": "assets/stickers/dog/dog_08.png",
       "thumb": "thumbs/stickers/dog/dog_08.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 80,
@@ -228,7 +228,7 @@
       "file": "assets/stickers/dog/dog_09.png",
       "thumb": "thumbs/stickers/dog/dog_09.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 90,
@@ -248,7 +248,7 @@
       "file": "assets/stickers/dog/dog_10.png",
       "thumb": "thumbs/stickers/dog/dog_10.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 100,
@@ -268,7 +268,7 @@
       "file": "assets/stickers/dog/dog_11.png",
       "thumb": "thumbs/stickers/dog/dog_11.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 110,
@@ -288,7 +288,7 @@
       "file": "assets/stickers/dog/dog_12.png",
       "thumb": "thumbs/stickers/dog/dog_12.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 120,
@@ -308,7 +308,7 @@
       "file": "assets/stickers/dog/dog_13.png",
       "thumb": "thumbs/stickers/dog/dog_13.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 130,
@@ -328,7 +328,7 @@
       "file": "assets/stickers/dog/dog_14.png",
       "thumb": "thumbs/stickers/dog/dog_14.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 140,
@@ -348,7 +348,7 @@
       "file": "assets/stickers/dog/dog_15.png",
       "thumb": "thumbs/stickers/dog/dog_15.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 150,
@@ -368,16 +368,16 @@
       "file": "assets/stickers/dog/dog_16.png",
       "thumb": "thumbs/stickers/dog/dog_16.webp",
       "tags": [
-        "柴犬狗",
+        "柴犬",
         "system"
       ],
       "sort": 160,
       "enabled": true,
-      "sha256": "4b8007acb8e4ee1cc331f602ca254e8af86c4016af2922b5be8c9fdb1336b915",
-      "thumb_sha256": "a0c37beab2d661e8bd3714e209dd3e1bebd1402c6c5576042f29d98c58d4f406",
-      "size_bytes": 136734,
-      "file_size_bytes": 136734,
-      "thumb_size_bytes": 18808
+      "sha256": "eb53e9219d669ddf151aac4e68144cf5214c0bdcf4e21db603f5725ef67e1f7e",
+      "thumb_sha256": "3bdff225f819297c191938bed2196599663271373a0334f7b2a6be884a0bb9e7",
+      "size_bytes": 96356,
+      "file_size_bytes": 96356,
+      "thumb_size_bytes": 17466
     }
   ]
 }

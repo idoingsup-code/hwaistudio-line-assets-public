@@ -1,41 +1,26 @@
 # HW AI Studio LINE 素材發布報告
 
 版本：2026.05.28.005  
-標題：素材發布  
-發布時間：2026-05-28T12:52:49.969868+08:00  
+標題：v0.8.3 stable archive validation  
+發布時間：2026-05-28T13:10:07.800668+08:00  
 狀態：published_local  
 
 ## 統計
 
-- 素材包數量：4
-- 素材數量：16
+- 素材包數量：3
+- 素材數量：3
 
 ## 新增素材包
 
-- dog
+- 無
 
 ## 修改素材包
 
-- hw_haoshiduo
+- 無
 
 ## 新增素材
 
-- dog_01
-- dog_02
-- dog_03
-- dog_04
-- dog_05
-- dog_06
-- dog_07
-- dog_08
-- dog_09
-- dog_10
-- dog_11
-- dog_12
-- dog_13
-- dog_14
-- dog_15
-- dog_16
+- 無
 
 ## 修改素材
 
@@ -43,9 +28,7 @@
 
 ## 移除或缺失素材
 
-- hw_haoshiduo_001
-- hw_haoshiduo_002
-- hw_haoshiduo_motion_001
+- 無
 
 ## 檢查結果
 
