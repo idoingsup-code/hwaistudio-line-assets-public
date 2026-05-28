@@ -1,26 +1,43 @@
 # HW AI Studio LINE 素材發布報告
 
 版本：2026.05.28.016  
-標題：Official public asset release  
-發布時間：2026-05-28T21:51:49.252496+08:00  
+標題：黃魚鴞  
+發布時間：2026-05-28T23:05:33.958814+08:00  
 狀態：published_local  
 
 ## 統計
 
-- 素材包數量：5
-- 素材數量：19
+- 素材包數量：6
+- 素材數量：35
 
 ## 新增素材包
 
-- 無
+- tawny_fish_owl
 
 ## 修改素材包
 
-- 無
+- dog
+- gif_mon
+- hank
 
 ## 新增素材
 
-- 無
+- tawny_fish_owl_owl_01
+- tawny_fish_owl_owl_02
+- tawny_fish_owl_owl_03_30
+- tawny_fish_owl_owl_04_300
+- tawny_fish_owl_owl_05
+- tawny_fish_owl_owl_06
+- tawny_fish_owl_owl_07
+- tawny_fish_owl_owl_08
+- tawny_fish_owl_owl_09
+- tawny_fish_owl_owl_10
+- tawny_fish_owl_owl_11
+- tawny_fish_owl_owl_12
+- tawny_fish_owl_owl_13
+- tawny_fish_owl_owl_14
+- tawny_fish_owl_owl_15
+- tawny_fish_owl_owl_16
 
 ## 修改素材
 

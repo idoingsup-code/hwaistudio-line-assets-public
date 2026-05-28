@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-28T21:51:49.563594+08:00",
-  "file_count": 158,
-  "total_size_bytes": 6527396,
+  "generated_at": "2026-05-28T23:05:34.283489+08:00",
+  "file_count": 191,
+  "total_size_bytes": 8868916,
   "files": [
     {
       "path": "assets/motions/gif_mon/gif_mon_mothers_day_slow.gif",
@@ -114,6 +114,86 @@
       "sha256": "9595dfb6c13d8d4ce55173de3432df74f1e0308d8908db0b898eb6e6086df29c"
     },
     {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_01.png",
+      "size_bytes": 127931,
+      "sha256": "1c50be5b743fe94d86018cb882c67fcab81770c67b10e2274a9f18ced160e8e1"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_02.png",
+      "size_bytes": 116434,
+      "sha256": "ec15b903961a74d2100a0b453dbcc5378f21f2041da5cf08680e367192230408"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_03_30.png",
+      "size_bytes": 147185,
+      "sha256": "74502c81c4f7e7ed3076a9ac17ca13819ea89f3b2c9d84595faed50032a2013c"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_04_300.png",
+      "size_bytes": 139249,
+      "sha256": "3bcdac53054a9b3d62c05d10f8531a2237c66957ea802fbfdfd8c1b6032666d4"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_05.png",
+      "size_bytes": 118352,
+      "sha256": "2c7bdbf536c8ac05ea9e31515c5e18f8c94625f265f22fb82b682a34dc68c68c"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_06.png",
+      "size_bytes": 120100,
+      "sha256": "5e0469198de0dde54d35f18fa8e3c611f73793f4e95686771565c679a131645f"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_07.png",
+      "size_bytes": 139762,
+      "sha256": "2bcb17675c8393b79871616112afabd07478fef0b2cca3e40a371beb1b423b6f"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_08.png",
+      "size_bytes": 100308,
+      "sha256": "575cad32a10f9d110b2fe9d5619f2958629aead7fa8330f3424be720942ec0c0"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_09.png",
+      "size_bytes": 104182,
+      "sha256": "abd2b53308377366ca29a4d68a86e942877a61fd71c10ead14efc79cb58fcfdf"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_10.png",
+      "size_bytes": 101413,
+      "sha256": "85d78a659a2a4300df4f3971b296b264826dbee2512c2ca519ee11e4d3cdb19c"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_11.png",
+      "size_bytes": 125915,
+      "sha256": "52e1d1954459bd03f5c6a2ccc06109b2a4ec728b0693dd4f9fabcfd8989bfc36"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_12.png",
+      "size_bytes": 115881,
+      "sha256": "2980df0d548c8700111a70ea08a47f5bef5252940e87d2e5a9883bdf51260ef1"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_13.png",
+      "size_bytes": 113688,
+      "sha256": "b8edd8e6f426d53b335664a03df7004bb87bad3abb42a93c42f610f534a86215"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_14.png",
+      "size_bytes": 118174,
+      "sha256": "4aab125a4271fecd90834106faef646c9fe743b683f90f371e494951162168a3"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_15.png",
+      "size_bytes": 122862,
+      "sha256": "e4f1ab55f4ecce27c8506fa20c11dd4ab4bdc67006896b6e230e79ea80de229c"
+    },
+    {
+      "path": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_16.png",
+      "size_bytes": 159483,
+      "sha256": "ba5e31913a4ba55df9a3364a5e3d6b2f7736f7369fae6c0903c83b25be46aa32"
+    },
+    {
       "path": "data/announcement.json",
       "size_bytes": 264,
       "sha256": "99d16c70dc71980011a3bf5fb6d27a7c51bf8b57d7ff94d66ea85e2f625875f0"
@@ -125,18 +205,18 @@
     },
     {
       "path": "data/packs.json",
-      "size_bytes": 13736,
-      "sha256": "d3b10a8547cc48b129ce2e0dbb3fad6cb9af37f81f61cea3547f3a829a95377b"
+      "size_bytes": 25385,
+      "sha256": "4613871d42d2600669af428a7a4ce8c4e4b764441548ca24a85d5c8de2fb0066"
     },
     {
       "path": "data/release_index.json",
-      "size_bytes": 9348,
-      "sha256": "769514451999c1fa317b9080f89d39a03ef2600b313da7960ea05c260176ee12"
+      "size_bytes": 9328,
+      "sha256": "b93cf1e39e4b2bfbfb9293b1f976b300bee37821f90c4747390c4eb360949698"
     },
     {
       "path": "manifest.json",
       "size_bytes": 892,
-      "sha256": "6484cea4a0b505c5adbe603e2cc7d93bf4a4c080b97e2084277d394801ab1347"
+      "sha256": "e6e641e75c889e738c0de2c80aba20e820fc67e85c3c7ca2792fb1d7af6e80ba"
     },
     {
       "path": "releases/2026.05.28.001/diff.json",
@@ -655,33 +735,38 @@
     },
     {
       "path": "releases/2026.05.28.016/diff.json",
-      "size_bytes": 287,
-      "sha256": "545abbcf23c913a9a193092f50213de7af4313060dc7fafda4074f6637ee42b4"
+      "size_bytes": 893,
+      "sha256": "0b4d87741998a4740986af6fbab091069839f0b078d8be9934ee550c901e65ec"
+    },
+    {
+      "path": "releases/2026.05.28.016/file_checksums.json",
+      "size_bytes": 28989,
+      "sha256": "ab04d90ecabf809e7bba933f6201968959dcc11900bf0ea523eec225b0d18cc8"
     },
     {
       "path": "releases/2026.05.28.016/manifest_snapshot.json",
       "size_bytes": 892,
-      "sha256": "6484cea4a0b505c5adbe603e2cc7d93bf4a4c080b97e2084277d394801ab1347"
+      "sha256": "e6e641e75c889e738c0de2c80aba20e820fc67e85c3c7ca2792fb1d7af6e80ba"
     },
     {
       "path": "releases/2026.05.28.016/packs_snapshot.json",
-      "size_bytes": 13736,
-      "sha256": "d3b10a8547cc48b129ce2e0dbb3fad6cb9af37f81f61cea3547f3a829a95377b"
+      "size_bytes": 25385,
+      "sha256": "4613871d42d2600669af428a7a4ce8c4e4b764441548ca24a85d5c8de2fb0066"
     },
     {
       "path": "releases/2026.05.28.016/release.json",
-      "size_bytes": 368,
-      "sha256": "2228c8a2cb3cc70bbb0e972a64d5ec2d2588c312f91844c83c5e121e03bfde31"
+      "size_bytes": 348,
+      "sha256": "425ea89f94b92ba3dffb3b24154801faddbfb0b2f8a82ca07e22a57374fb4581"
     },
     {
       "path": "releases/2026.05.28.016/report.md",
-      "size_bytes": 672,
-      "sha256": "aca6319a9cb25a6ad460fa29407ba92d8dc0bc703445fb531b7375dbdda04130"
+      "size_bytes": 1082,
+      "sha256": "77dc9fa53ef890ccab06638ba8072a2aa4bb6c153a1183f3d578ffc346518f23"
     },
     {
       "path": "releases/2026.05.28.016/validation.json",
       "size_bytes": 2173,
-      "sha256": "22b5abbdc788fe5c0b807011d7a7314c725a9450767c6777b35fa2a3d9ed0e7b"
+      "sha256": "562bb35c24a4a57844261027b3a95bc9bac68c0da998da49cff01e9fda838020"
     },
     {
       "path": "thumbs/motions/gif_mon/gif_mon_mothers_day_slow.webp",
@@ -792,6 +877,86 @@
       "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_002.webp",
       "size_bytes": 11356,
       "sha256": "90643763d1f06ad5db396c9c1dcf9885bb058ac8468e62afec27d6b790353fbc"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_01.webp",
+      "size_bytes": 19606,
+      "sha256": "96074cbc30100a4bede538a24bc49890017b1ef5f6222fc7add337f143110fa4"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_02.webp",
+      "size_bytes": 18126,
+      "sha256": "e00c5dbcf20dff83d04ca2d402311cff7b7932a9291652b434096f7c02ed5023"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_03_30.webp",
+      "size_bytes": 24080,
+      "sha256": "6c8cd83f450f3545b3dea9a4786f0a1695e3cd39374c0a152a40918ec002b924"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_04_300.webp",
+      "size_bytes": 23774,
+      "sha256": "8ecfaf994664787937e75877311f117f19fc50b09437dcd617c938035e85aecf"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_05.webp",
+      "size_bytes": 17280,
+      "sha256": "9ac0aab49079d7df5d91cec989eaadc9236c01e7f1877cfb279b3ec00727eb69"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_06.webp",
+      "size_bytes": 19212,
+      "sha256": "56632ca36dd6612fd37bdc8372ac0ca7228ab691f771828f2bfdfedb7312ece8"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_07.webp",
+      "size_bytes": 21828,
+      "sha256": "ef30aa7f8a4c23bf25ed0294f558508ab95f8d613be902a9ebabbe86b862394b"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_08.webp",
+      "size_bytes": 19210,
+      "sha256": "c761aad3ba4eb11e35a9dd34b5c3148ae4d296004aed8bfeb303e722ab2d6257"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_09.webp",
+      "size_bytes": 17362,
+      "sha256": "3131fd6a7d5cb225611bc70ab1038f2699f66ee1aec261137e90203371fa00ca"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_10.webp",
+      "size_bytes": 20228,
+      "sha256": "ec18366bf3322ceb255a3be7519e5d4f6573ed616d974c35da368b309b4d7273"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_11.webp",
+      "size_bytes": 21754,
+      "sha256": "cfe1f2d4b4a41e07576231764b3cc8cb33dd5a0a0bae88015a0068f51cec6185"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_12.webp",
+      "size_bytes": 20800,
+      "sha256": "a8f1dfdd3f92187dfa8659d563b970ec6b8238bcefbd576116d7d03e9f241c5b"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_13.webp",
+      "size_bytes": 16160,
+      "sha256": "e8cddb83707f9d4f4b72d6b10835664d3fbcb6b3c4c69f19fd676e0f0f90cdc1"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_14.webp",
+      "size_bytes": 18560,
+      "sha256": "d0089088c8fe112ac4d525eb7ae2289d38d7ae8bdc71f5080d48113da65deb9d"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_15.webp",
+      "size_bytes": 18294,
+      "sha256": "b580e02a298f3700a62ee879efe75582e152340978b5075d6e6e7441c9c9de2d"
+    },
+    {
+      "path": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_16.webp",
+      "size_bytes": 21064,
+      "sha256": "0ff05305508cbdbcd7d6106cf9dc90c0310322b98ed6df0c9568edd277647a21"
     }
   ]
 }

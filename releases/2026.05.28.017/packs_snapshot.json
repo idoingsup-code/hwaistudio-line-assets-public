@@ -1,0 +1,782 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-05-28T23:05:58.931999+08:00",
+  "pack_groups": [
+    {
+      "id": "system",
+      "display_name": "系統",
+      "sort": 0,
+      "enabled": true
+    },
+    {
+      "id": "hw_series",
+      "display_name": "HW 系列",
+      "sort": 10,
+      "enabled": true
+    }
+  ],
+  "packs": [
+    {
+      "id": "recent",
+      "display_name": "最近使用",
+      "group": "system",
+      "type": "system",
+      "media_group": "mixed",
+      "icon_item_id": null,
+      "sort": 0,
+      "enabled": true
+    },
+    {
+      "id": "favorites",
+      "display_name": "收藏",
+      "group": "system",
+      "type": "system",
+      "media_group": "mixed",
+      "icon_item_id": null,
+      "sort": 1,
+      "enabled": true
+    },
+    {
+      "id": "dog",
+      "display_name": "柴犬",
+      "group": "system",
+      "media_group": "mixed",
+      "sort": 2,
+      "enabled": true,
+      "type": "official",
+      "icon_item_id": "dog_01"
+    },
+    {
+      "id": "gif_mon",
+      "display_name": "母親節",
+      "group": "hw_series",
+      "media_group": "motion",
+      "sort": 4,
+      "enabled": true,
+      "type": "official",
+      "icon_item_id": "gif_mon_mothers_day_slow"
+    },
+    {
+      "id": "hank",
+      "display_name": "Hank動態圖示",
+      "group": "hw_series",
+      "media_group": "mixed",
+      "sort": 3,
+      "enabled": true,
+      "type": "official",
+      "icon_item_id": "hank_chibi_greeting_animation"
+    },
+    {
+      "id": "tawny_fish_owl",
+      "display_name": "黃魚鴞",
+      "group": "system",
+      "media_group": "sticker",
+      "sort": 1,
+      "enabled": true,
+      "type": "official",
+      "icon_item_id": "tawny_fish_owl_owl_01"
+    }
+  ],
+  "items": [
+    {
+      "id": "dog_01",
+      "pack_id": "dog",
+      "title": "早安",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_01.png",
+      "thumb": "thumbs/stickers/dog/dog_01.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 10,
+      "enabled": true,
+      "sha256": "62efdd56563f51148feac6c0d59b975f4e45620782c055e0a58abba5648435eb",
+      "thumb_sha256": "69dbda7472cb02401fece0648b9fd9819b540ecfd9c01be5821ba418a5af3807",
+      "size_bytes": 126382,
+      "file_size_bytes": 126382,
+      "thumb_size_bytes": 17160
+    },
+    {
+      "id": "dog_02",
+      "pack_id": "dog",
+      "title": "晚安",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_02.png",
+      "thumb": "thumbs/stickers/dog/dog_02.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 20,
+      "enabled": true,
+      "sha256": "80cf6d3eff71fc592e12292626cecb9f6105d9d8c374215ea49d4fcaff2435be",
+      "thumb_sha256": "eb9793156a46e4010270bddf73a1f5cc4240d936cd86cf4b423f42655fe2b3fb",
+      "size_bytes": 138869,
+      "file_size_bytes": 138869,
+      "thumb_size_bytes": 18400
+    },
+    {
+      "id": "dog_03",
+      "pack_id": "dog",
+      "title": "謝謝",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_03.png",
+      "thumb": "thumbs/stickers/dog/dog_03.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 30,
+      "enabled": true,
+      "sha256": "e6385176913be00c4693910ac673ac33a6f2767932ef4709fe0352b003ffa76a",
+      "thumb_sha256": "c8b3e79ca821176d6ffd842c283bcf84fb6c03db366726b75c78fd48db034e8c",
+      "size_bytes": 125916,
+      "file_size_bytes": 125916,
+      "thumb_size_bytes": 17480
+    },
+    {
+      "id": "dog_04",
+      "pack_id": "dog",
+      "title": "對不起",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_04.png",
+      "thumb": "thumbs/stickers/dog/dog_04.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 40,
+      "enabled": true,
+      "sha256": "17028ff71a8f2740d31c1eef0ac99cd492c3aba5f32801e1821bf59deb08ec27",
+      "thumb_sha256": "846cf276bae75bbf2e18de72f39bfeba7cb1fec9094dfe69543d7ddbba9e4144",
+      "size_bytes": 124642,
+      "file_size_bytes": 124642,
+      "thumb_size_bytes": 17714
+    },
+    {
+      "id": "dog_05",
+      "pack_id": "dog",
+      "title": "ok",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_05.png",
+      "thumb": "thumbs/stickers/dog/dog_05.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 50,
+      "enabled": true,
+      "sha256": "95bf36c17fd9a7c63e708c010c8050c37da098a3fa5c07499a089e9e97649067",
+      "thumb_sha256": "e3bfdebf698a803e903b58e31d09c7df0319307dd05f337a31da08d3daabf673",
+      "size_bytes": 118581,
+      "file_size_bytes": 118581,
+      "thumb_size_bytes": 13932
+    },
+    {
+      "id": "dog_06",
+      "pack_id": "dog",
+      "title": "收到",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_06.png",
+      "thumb": "thumbs/stickers/dog/dog_06.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 60,
+      "enabled": true,
+      "sha256": "fb73a8506e510c3ed502d15627a899e55ffd99e9775ea7ff0af972c670be0d6c",
+      "thumb_sha256": "8a5c42a40155a93f9107fea950547fbc5f4b4b9002d303db30f557279568c7c0",
+      "size_bytes": 109808,
+      "file_size_bytes": 109808,
+      "thumb_size_bytes": 14544
+    },
+    {
+      "id": "dog_07",
+      "pack_id": "dog",
+      "title": "加油",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_07.png",
+      "thumb": "thumbs/stickers/dog/dog_07.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 70,
+      "enabled": true,
+      "sha256": "d592ff2ad32d4be796e1a990280c5bba32bd61c0fbb122b39552d689b2e10b68",
+      "thumb_sha256": "fae4b8443e2f4a19989f7bf3559dbea6bf36a3c29ca6b9a6758c5a62bfa2b41a",
+      "size_bytes": 132381,
+      "file_size_bytes": 132381,
+      "thumb_size_bytes": 18596
+    },
+    {
+      "id": "dog_08",
+      "pack_id": "dog",
+      "title": "辛苦了",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_08.png",
+      "thumb": "thumbs/stickers/dog/dog_08.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 80,
+      "enabled": true,
+      "sha256": "d99de8115e8ba089613e04e8e4370040adc205b5b76d7b7d31d3b40bc8ce92fa",
+      "thumb_sha256": "e0703bfdabceb3354771a87c00cb77176ce0c03b79927e2384f97d917986ff8f",
+      "size_bytes": 125630,
+      "file_size_bytes": 125630,
+      "thumb_size_bytes": 16954
+    },
+    {
+      "id": "dog_09",
+      "pack_id": "dog",
+      "title": "哈哈大笑",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_09.png",
+      "thumb": "thumbs/stickers/dog/dog_09.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 90,
+      "enabled": true,
+      "sha256": "719eb5ac3e4101ff3ed9700eb32513db6f08db98e497fce651ecf16cbfa6aa56",
+      "thumb_sha256": "c427c5deb2134120cf4879b259b7dad461a4198fb6740d486464b25a760f6acd",
+      "size_bytes": 121066,
+      "file_size_bytes": 121066,
+      "thumb_size_bytes": 19444
+    },
+    {
+      "id": "dog_10",
+      "pack_id": "dog",
+      "title": "哭哭",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_10.png",
+      "thumb": "thumbs/stickers/dog/dog_10.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 100,
+      "enabled": true,
+      "sha256": "d6775a14089d746cf3d7679566edec693d5317d5755ff1d05aede11ef5a24b36",
+      "thumb_sha256": "029b266978e8008adbe9a35203738e9616ceb1fe82e143b74d9c19f5d6f6df16",
+      "size_bytes": 109837,
+      "file_size_bytes": 109837,
+      "thumb_size_bytes": 14736
+    },
+    {
+      "id": "dog_11",
+      "pack_id": "dog",
+      "title": "生氣",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_11.png",
+      "thumb": "thumbs/stickers/dog/dog_11.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 110,
+      "enabled": true,
+      "sha256": "90649e0114977afb86f6586a0dec47b868d9021fe20a4a2abd0474dab3f4b12d",
+      "thumb_sha256": "9009a336acae820e0b4f7ea7a1f94a97f4a3d9394c54ea19056d26b857119bce",
+      "size_bytes": 127118,
+      "file_size_bytes": 127118,
+      "thumb_size_bytes": 19506
+    },
+    {
+      "id": "dog_12",
+      "pack_id": "dog",
+      "title": "驚訝",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_12.png",
+      "thumb": "thumbs/stickers/dog/dog_12.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 120,
+      "enabled": true,
+      "sha256": "cb5457c908e37c9ba901e62b72bdbd08e192a3073a98a50365968ecce36fc3b1",
+      "thumb_sha256": "2c2ddf5ec34c204812cc1e7dd4828ba815dfb9b7051fba63d09dbc3021ee88df",
+      "size_bytes": 113768,
+      "file_size_bytes": 113768,
+      "thumb_size_bytes": 15426
+    },
+    {
+      "id": "dog_13",
+      "pack_id": "dog",
+      "title": "愛心抱抱",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_13.png",
+      "thumb": "thumbs/stickers/dog/dog_13.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 130,
+      "enabled": true,
+      "sha256": "e1bd76847f96e1f7f1254526496ba2668ebd42879ed2eb2280a02141fb22f67f",
+      "thumb_sha256": "32f294b31d11b1f6120dcbb841fd98dc840753ba609926f3ad2964496463dc2b",
+      "size_bytes": 132682,
+      "file_size_bytes": 132682,
+      "thumb_size_bytes": 18336
+    },
+    {
+      "id": "dog_14",
+      "pack_id": "dog",
+      "title": "吃飯中",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_14.png",
+      "thumb": "thumbs/stickers/dog/dog_14.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 140,
+      "enabled": true,
+      "sha256": "895bf0f09bfd0df732e0b626d643882e9f5de6c4744b449619b2ae682a451eb8",
+      "thumb_sha256": "2c7fbd533c1b059f1c7ca247bf5c4890690d4fc0343a7b9b58859afde8af944e",
+      "size_bytes": 130657,
+      "file_size_bytes": 130657,
+      "thumb_size_bytes": 17450
+    },
+    {
+      "id": "dog_15",
+      "pack_id": "dog",
+      "title": "睡覺中",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_15.png",
+      "thumb": "thumbs/stickers/dog/dog_15.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 150,
+      "enabled": true,
+      "sha256": "d3ad598251d8be0c105b3acde86489c079d1a903517ae4d17f8a62163dfa4bf2",
+      "thumb_sha256": "c687a7bb5bd6eb3bf596e7ac602451105e32b61d162b057dfc50159a65a2aaf5",
+      "size_bytes": 145200,
+      "file_size_bytes": 145200,
+      "thumb_size_bytes": 18810
+    },
+    {
+      "id": "dog_16",
+      "pack_id": "dog",
+      "title": "拜託",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/dog/dog_16.png",
+      "thumb": "thumbs/stickers/dog/dog_16.webp",
+      "tags": [
+        "柴犬",
+        "system"
+      ],
+      "sort": 160,
+      "enabled": true,
+      "sha256": "eb53e9219d669ddf151aac4e68144cf5214c0bdcf4e21db603f5725ef67e1f7e",
+      "thumb_sha256": "3bdff225f819297c191938bed2196599663271373a0334f7b2a6be884a0bb9e7",
+      "size_bytes": 96356,
+      "file_size_bytes": 96356,
+      "thumb_size_bytes": 17466
+    },
+    {
+      "id": "gif_mon_mothers_day_slow",
+      "pack_id": "gif_mon",
+      "title": "mothers_day_slow",
+      "media_type": "motion",
+      "file_type": "gif",
+      "file": "assets/motions/gif_mon/gif_mon_mothers_day_slow.gif",
+      "thumb": "thumbs/motions/gif_mon/gif_mon_mothers_day_slow.webp",
+      "tags": [
+        "母親節",
+        "hw_series"
+      ],
+      "sort": 10,
+      "enabled": true,
+      "sha256": "07fc5ef21fbfbd47338e99c7e1168ff8a9436e49c8d90a5c8e61f22f85416d3c",
+      "thumb_sha256": "1d570ac947deda89cc326266fd73cb96d036627d1d4e816644bb47694637ddb5",
+      "size_bytes": 3151934,
+      "file_size_bytes": 3151934,
+      "thumb_size_bytes": 4316
+    },
+    {
+      "id": "hank_chibi_greeting_animation",
+      "pack_id": "hank",
+      "title": "Hank連續動態",
+      "media_type": "motion",
+      "file_type": "gif",
+      "file": "assets/motions/hank/hank_chibi_greeting_animation.gif",
+      "thumb": "thumbs/motions/hank/hank_chibi_greeting_animation.webp",
+      "tags": [
+        "Hank動態圖示",
+        "hw_series"
+      ],
+      "sort": 10,
+      "enabled": true,
+      "sha256": "d24bfd1567e47977d5beaf4b3f88b1b9f172e7d842fb9d71639b776966ef0feb",
+      "thumb_sha256": "5e4650a0ba65a5369e13c50e8ab2245a786029c63cc56c67a3297fd69d5d6094",
+      "size_bytes": 185708,
+      "file_size_bytes": 185708,
+      "thumb_size_bytes": 11430
+    },
+    {
+      "id": "hank_dog_run_animation_loop",
+      "pack_id": "hank",
+      "title": "開心的狗",
+      "media_type": "motion",
+      "file_type": "gif",
+      "file": "assets/motions/hank/hank_dog_run_animation_loop.gif",
+      "thumb": "thumbs/motions/hank/hank_dog_run_animation_loop.webp",
+      "tags": [
+        "Hank動態圖示",
+        "hw_series"
+      ],
+      "sort": 20,
+      "enabled": true,
+      "sha256": "f216e05b02eccf27b289cd9cf725f390dfc1d58aa488b7cb13e04576797aba61",
+      "thumb_sha256": "f9d62fcc77a214325e38dabd390eca6284558b16dea2c52f2efc2d682905cada",
+      "size_bytes": 229057,
+      "file_size_bytes": 229057,
+      "thumb_size_bytes": 27364
+    },
+    {
+      "id": "tawny_fish_owl_owl_01",
+      "pack_id": "tawny_fish_owl",
+      "title": "睡不飽",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_01.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_01.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 10,
+      "enabled": true,
+      "sha256": "1c50be5b743fe94d86018cb882c67fcab81770c67b10e2274a9f18ced160e8e1",
+      "thumb_sha256": "96074cbc30100a4bede538a24bc49890017b1ef5f6222fc7add337f143110fa4",
+      "size_bytes": 127931,
+      "file_size_bytes": 127931,
+      "thumb_size_bytes": 19606
+    },
+    {
+      "id": "tawny_fish_owl_owl_02",
+      "pack_id": "tawny_fish_owl",
+      "title": "巴豆夭",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_02.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_02.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 20,
+      "enabled": true,
+      "sha256": "ec15b903961a74d2100a0b453dbcc5378f21f2041da5cf08680e367192230408",
+      "thumb_sha256": "e00c5dbcf20dff83d04ca2d402311cff7b7932a9291652b434096f7c02ed5023",
+      "size_bytes": 116434,
+      "file_size_bytes": 116434,
+      "thumb_size_bytes": 18126
+    },
+    {
+      "id": "tawny_fish_owl_owl_03_30",
+      "pack_id": "tawny_fish_owl",
+      "title": "30萬，給我！",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_03_30.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_03_30.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 30,
+      "enabled": true,
+      "sha256": "74502c81c4f7e7ed3076a9ac17ca13819ea89f3b2c9d84595faed50032a2013c",
+      "thumb_sha256": "6c8cd83f450f3545b3dea9a4786f0a1695e3cd39374c0a152a40918ec002b924",
+      "size_bytes": 147185,
+      "file_size_bytes": 147185,
+      "thumb_size_bytes": 24080
+    },
+    {
+      "id": "tawny_fish_owl_owl_04_300",
+      "pack_id": "tawny_fish_owl",
+      "title": "我要300塊！",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_04_300.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_04_300.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 40,
+      "enabled": true,
+      "sha256": "3bcdac53054a9b3d62c05d10f8531a2237c66957ea802fbfdfd8c1b6032666d4",
+      "thumb_sha256": "8ecfaf994664787937e75877311f117f19fc50b09437dcd617c938035e85aecf",
+      "size_bytes": 139249,
+      "file_size_bytes": 139249,
+      "thumb_size_bytes": 23774
+    },
+    {
+      "id": "tawny_fish_owl_owl_05",
+      "pack_id": "tawny_fish_owl",
+      "title": "不要了",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_05.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_05.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 50,
+      "enabled": true,
+      "sha256": "2c7bdbf536c8ac05ea9e31515c5e18f8c94625f265f22fb82b682a34dc68c68c",
+      "thumb_sha256": "9ac0aab49079d7df5d91cec989eaadc9236c01e7f1877cfb279b3ec00727eb69",
+      "size_bytes": 118352,
+      "file_size_bytes": 118352,
+      "thumb_size_bytes": 17280
+    },
+    {
+      "id": "tawny_fish_owl_owl_06",
+      "pack_id": "tawny_fish_owl",
+      "title": "什麼！",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_06.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_06.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 60,
+      "enabled": true,
+      "sha256": "5e0469198de0dde54d35f18fa8e3c611f73793f4e95686771565c679a131645f",
+      "thumb_sha256": "56632ca36dd6612fd37bdc8372ac0ca7228ab691f771828f2bfdfedb7312ece8",
+      "size_bytes": 120100,
+      "file_size_bytes": 120100,
+      "thumb_size_bytes": 19212
+    },
+    {
+      "id": "tawny_fish_owl_owl_07",
+      "pack_id": "tawny_fish_owl",
+      "title": "水開了",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_07.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_07.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 70,
+      "enabled": true,
+      "sha256": "2bcb17675c8393b79871616112afabd07478fef0b2cca3e40a371beb1b423b6f",
+      "thumb_sha256": "ef30aa7f8a4c23bf25ed0294f558508ab95f8d613be902a9ebabbe86b862394b",
+      "size_bytes": 139762,
+      "file_size_bytes": 139762,
+      "thumb_size_bytes": 21828
+    },
+    {
+      "id": "tawny_fish_owl_owl_08",
+      "pack_id": "tawny_fish_owl",
+      "title": "試飛",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_08.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_08.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 80,
+      "enabled": true,
+      "sha256": "575cad32a10f9d110b2fe9d5619f2958629aead7fa8330f3424be720942ec0c0",
+      "thumb_sha256": "c761aad3ba4eb11e35a9dd34b5c3148ae4d296004aed8bfeb303e722ab2d6257",
+      "size_bytes": 100308,
+      "file_size_bytes": 100308,
+      "thumb_size_bytes": 19210
+    },
+    {
+      "id": "tawny_fish_owl_owl_09",
+      "pack_id": "tawny_fish_owl",
+      "title": "抓抓",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_09.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_09.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 90,
+      "enabled": true,
+      "sha256": "abd2b53308377366ca29a4d68a86e942877a61fd71c10ead14efc79cb58fcfdf",
+      "thumb_sha256": "3131fd6a7d5cb225611bc70ab1038f2699f66ee1aec261137e90203371fa00ca",
+      "size_bytes": 104182,
+      "file_size_bytes": 104182,
+      "thumb_size_bytes": 17362
+    },
+    {
+      "id": "tawny_fish_owl_owl_10",
+      "pack_id": "tawny_fish_owl",
+      "title": "跳跳",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_10.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_10.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 100,
+      "enabled": true,
+      "sha256": "85d78a659a2a4300df4f3971b296b264826dbee2512c2ca519ee11e4d3cdb19c",
+      "thumb_sha256": "ec18366bf3322ceb255a3be7519e5d4f6573ed616d974c35da368b309b4d7273",
+      "size_bytes": 101413,
+      "file_size_bytes": 101413,
+      "thumb_size_bytes": 20228
+    },
+    {
+      "id": "tawny_fish_owl_owl_11",
+      "pack_id": "tawny_fish_owl",
+      "title": "別惹我！",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_11.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_11.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 110,
+      "enabled": true,
+      "sha256": "52e1d1954459bd03f5c6a2ccc06109b2a4ec728b0693dd4f9fabcfd8989bfc36",
+      "thumb_sha256": "cfe1f2d4b4a41e07576231764b3cc8cb33dd5a0a0bae88015a0068f51cec6185",
+      "size_bytes": 125915,
+      "file_size_bytes": 125915,
+      "thumb_size_bytes": 21754
+    },
+    {
+      "id": "tawny_fish_owl_owl_12",
+      "pack_id": "tawny_fish_owl",
+      "title": "站累了！坐一下",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_12.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_12.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 120,
+      "enabled": true,
+      "sha256": "2980df0d548c8700111a70ea08a47f5bef5252940e87d2e5a9883bdf51260ef1",
+      "thumb_sha256": "a8f1dfdd3f92187dfa8659d563b970ec6b8238bcefbd576116d7d03e9f241c5b",
+      "size_bytes": 115881,
+      "file_size_bytes": 115881,
+      "thumb_size_bytes": 20800
+    },
+    {
+      "id": "tawny_fish_owl_owl_13",
+      "pack_id": "tawny_fish_owl",
+      "title": "拍拍",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_13.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_13.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 130,
+      "enabled": true,
+      "sha256": "b8edd8e6f426d53b335664a03df7004bb87bad3abb42a93c42f610f534a86215",
+      "thumb_sha256": "e8cddb83707f9d4f4b72d6b10835664d3fbcb6b3c4c69f19fd676e0f0f90cdc1",
+      "size_bytes": 113688,
+      "file_size_bytes": 113688,
+      "thumb_size_bytes": 16160
+    },
+    {
+      "id": "tawny_fish_owl_owl_14",
+      "pack_id": "tawny_fish_owl",
+      "title": "伸懶爪",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_14.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_14.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 140,
+      "enabled": true,
+      "sha256": "4aab125a4271fecd90834106faef646c9fe743b683f90f371e494951162168a3",
+      "thumb_sha256": "d0089088c8fe112ac4d525eb7ae2289d38d7ae8bdc71f5080d48113da65deb9d",
+      "size_bytes": 118174,
+      "file_size_bytes": 118174,
+      "thumb_size_bytes": 18560
+    },
+    {
+      "id": "tawny_fish_owl_owl_15",
+      "pack_id": "tawny_fish_owl",
+      "title": "睡覺中",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_15.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_15.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 150,
+      "enabled": true,
+      "sha256": "e4f1ab55f4ecce27c8506fa20c11dd4ab4bdc67006896b6e230e79ea80de229c",
+      "thumb_sha256": "b580e02a298f3700a62ee879efe75582e152340978b5075d6e6e7441c9c9de2d",
+      "size_bytes": 122862,
+      "file_size_bytes": 122862,
+      "thumb_size_bytes": 18294
+    },
+    {
+      "id": "tawny_fish_owl_owl_16",
+      "pack_id": "tawny_fish_owl",
+      "title": "夜間看著你",
+      "media_type": "image",
+      "file_type": "png",
+      "file": "assets/stickers/tawny_fish_owl/tawny_fish_owl_owl_16.png",
+      "thumb": "thumbs/stickers/tawny_fish_owl/tawny_fish_owl_owl_16.webp",
+      "tags": [
+        "黃魚鴞",
+        "system"
+      ],
+      "sort": 160,
+      "enabled": true,
+      "sha256": "ba5e31913a4ba55df9a3364a5e3d6b2f7736f7369fae6c0903c83b25be46aa32",
+      "thumb_sha256": "0ff05305508cbdbcd7d6106cf9dc90c0310322b98ed6df0c9568edd277647a21",
+      "size_bytes": 159483,
+      "file_size_bytes": 159483,
+      "thumb_size_bytes": 21064
+    }
+  ]
+}

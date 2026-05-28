@@ -1,0 +1,102 @@
+{
+  "version": "2026.05.28.017",
+  "checked_at": "2026-05-28T23:05:59.090531+08:00",
+  "result": "passed",
+  "errors": [],
+  "warnings": [],
+  "checks": [
+    {
+      "name": "required_public_files",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "allowed_public_top_level",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "duplicate_pack_ids",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "duplicate_item_ids",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "item_pack_references",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "pack_icon_references",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "pack_group_references",
+      "status": "passed",
+      "severity": "warning",
+      "detail": []
+    },
+    {
+      "name": "valid_media_type",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "missing_files",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "missing_thumbs",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "file_size_limits",
+      "status": "passed",
+      "severity": "warning",
+      "detail": []
+    },
+    {
+      "name": "sha256",
+      "status": "passed",
+      "severity": "warning",
+      "detail": []
+    },
+    {
+      "name": "public_dist_forbidden_names",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "manifest_integrity",
+      "status": "passed",
+      "severity": "warning",
+      "detail": []
+    },
+    {
+      "name": "version_consistency",
+      "status": "passed",
+      "severity": "warning",
+      "detail": {
+        "manifest": "2026.05.28.017",
+        "release_index": "2026.05.28.017"
+      }
+    }
+  ]
+}
