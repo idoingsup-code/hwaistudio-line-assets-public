@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-05-28T09:42:12+08:00",
+  "version": "2026.05.28.001",
+  "result": "passed",
+  "errors": [],
+  "warnings": [],
+  "checks": [
+    {
+      "name": "manifest_json_parse",
+      "status": "passed"
+    },
+    {
+      "name": "manifest_required_fields",
+      "status": "passed"
+    },
+    {
+      "name": "forbidden_public_directories",
+      "status": "passed"
+    },
+    {
+      "name": "manifest_targets_exist",
+      "status": "passed"
+    },
+    {
+      "name": "packs_json_parse",
+      "status": "passed"
+    },
+    {
+      "name": "pack_ids_unique",
+      "status": "passed"
+    },
+    {
+      "name": "item_ids_unique",
+      "status": "passed"
+    },
+    {
+      "name": "icon_item_ids_valid",
+      "status": "passed"
+    },
+    {
+      "name": "item_pack_ids_valid",
+      "status": "passed"
+    },
+    {
+      "name": "asset_files_exist",
+      "status": "passed"
+    },
+    {
+      "name": "sha256_valid",
+      "status": "passed"
+    }
+  ],
+  "summary": {
+    "pack_count": 3,
+    "item_count": 3,
+    "error_count": 0,
+    "warning_count": 0
+  }
+}

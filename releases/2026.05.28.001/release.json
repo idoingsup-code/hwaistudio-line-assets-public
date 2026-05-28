@@ -1,0 +1,25 @@
+{
+  "version": "2026.05.28.001",
+  "title": "初始化 HW AI Studio LINE 素材庫資料骨架",
+  "published_at": "2026-05-28T09:30:00+08:00",
+  "published_by": "HANK",
+  "status": "published",
+  "summary": "建立 public_dist、data、assets、thumbs、releases 等資料結構，新增 HW 系列 / 好事多測試素材包。",
+  "counts": {
+    "packs_added": 1,
+    "items_added": 3,
+    "static_images_added": 2,
+    "motions_added": 1,
+    "videos_added": 0
+  },
+  "git": {
+    "branch": "main",
+    "commit": "LOCAL_V0_1_NOT_PUSHED"
+  },
+  "files": {
+    "report": "releases/2026.05.28.001/report.md",
+    "diff": "releases/2026.05.28.001/diff.json",
+    "validation": "releases/2026.05.28.001/validation.json",
+    "manifest_snapshot": "releases/2026.05.28.001/manifest_snapshot.json"
+  }
+}

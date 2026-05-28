@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "asset_version": "2026.05.28.001",
+  "product_name": "HW AI Studio LINE 素材助手",
+  "base_url": "",
+  "brand_file": "data/brand.json",
+  "packs_file": "data/packs.json",
+  "announcement_file": "data/announcement.json",
+  "release_index_file": "data/release_index.json",
+  "updated_at": "2026-05-28T09:30:00+08:00",
+  "integrity": {
+    "brand_sha256": "f6ebc8a4318f73cae60986c8fe6f3f519a0dbe15a1277974c11d5644bddfdd2e",
+    "packs_sha256": "a444c5536244be4db3ac98fa95f0d48724b124dc635106ac9fe32674ff9dc13d",
+    "announcement_sha256": "99d16c70dc71980011a3bf5fb6d27a7c51bf8b57d7ff94d66ea85e2f625875f0",
+    "release_index_sha256": "8f0a61192756ad8cd16da8ff740eff6b5453f36cb6f5a565709fcf3eaabeac6c"
+  },
+  "signature": {
+    "enabled": false,
+    "note": "v0.1 先保留欄位；正式版可加入 Ed25519 / RSA 簽章驗證。"
+  }
+}

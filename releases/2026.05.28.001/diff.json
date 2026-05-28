@@ -1,0 +1,22 @@
+{
+  "version": "2026.05.28.001",
+  "changes": {
+    "pack_groups_added": [
+      "hw_series"
+    ],
+    "packs_added": [
+      "hw_haoshiduo"
+    ],
+    "packs_modified": [],
+    "packs_disabled": [],
+    "items_added": [
+      "hw_haoshiduo_001",
+      "hw_haoshiduo_002",
+      "hw_haoshiduo_motion_001"
+    ],
+    "items_modified": [],
+    "items_disabled": [],
+    "brand_modified": true,
+    "announcement_modified": true
+  }
+}

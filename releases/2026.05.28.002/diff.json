@@ -1,0 +1,20 @@
+{
+  "version": "2026.05.28.002",
+  "generated_at": "2026-05-28T09:59:58.158922+08:00",
+  "changes": {
+    "packs_added": [
+      "favorites",
+      "hw_haoshiduo",
+      "recent"
+    ],
+    "packs_modified": [],
+    "packs_removed_or_missing": [],
+    "items_added": [
+      "hw_haoshiduo_001",
+      "hw_haoshiduo_002",
+      "hw_haoshiduo_motion_001"
+    ],
+    "items_modified": [],
+    "items_removed_or_missing": []
+  }
+}

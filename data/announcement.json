@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "title": "HW AI Studio 素材庫初始化",
+  "message": "建立第一版素材資料骨架，包含 HW 系列 / 好事多測試素材包。",
+  "url": "https://hwaistudio.pythonanywhere.com/",
+  "published_at": "2026-05-28T09:30:00+08:00"
+}

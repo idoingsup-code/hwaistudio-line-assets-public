@@ -1,0 +1,44 @@
+{
+  "latest_version": "2026.05.28.004",
+  "updated_at": "2026-05-28T09:30:00+08:00",
+  "releases": [
+    {
+      "version": "2026.05.28.004",
+      "published_at": "2026-05-28T10:28:00.082110+08:00",
+      "title": "Manual local release",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.004/report.md",
+      "release_file": "releases/2026.05.28.004/release.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.003",
+      "published_at": "2026-05-28T10:25:54.902070+08:00",
+      "title": "test",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.003/report.md",
+      "release_file": "releases/2026.05.28.003/release.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.002",
+      "published_at": "2026-05-28T09:59:58.139004+08:00",
+      "title": "v0.3 管理端首次本機發布測試",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.002/report.md",
+      "release_file": "releases/2026.05.28.002/release.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.001",
+      "published_at": "2026-05-28T09:30:00+08:00",
+      "title": "初始化 HW AI Studio LINE 素材庫資料骨架",
+      "summary": "建立 public_dist、data、assets、thumbs、releases 等資料結構，新增 HW 系列 / 好事多測試素材包。",
+      "report": "releases/2026.05.28.001/report.md",
+      "release_file": "releases/2026.05.28.001/release.json",
+      "diff": "releases/2026.05.28.001/diff.json",
+      "validation": "releases/2026.05.28.001/validation.json",
+      "status": "published"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "version": "2026.05.28.003",
+  "checked_at": "2026-05-28T10:25:54.902070+08:00",
+  "result": "passed",
+  "errors": [],
+  "warnings": [],
+  "checks": [
+    {
+      "name": "duplicate_pack_ids",
+      "status": "passed",
+      "detail": []
+    },
+    {
+      "name": "duplicate_item_ids",
+      "status": "passed",
+      "detail": []
+    },
+    {
+      "name": "item_pack_references",
+      "status": "passed",
+      "detail": []
+    },
+    {
+      "name": "pack_icon_references",
+      "status": "passed",
+      "detail": []
+    },
+    {
+      "name": "missing_files",
+      "status": "passed",
+      "detail": []
+    },
+    {
+      "name": "missing_thumbs",
+      "status": "passed",
+      "detail": []
+    },
+    {
+      "name": "file_size_limits",
+      "status": "passed",
+      "detail": []
+    },
+    {
+      "name": "sha256",
+      "status": "passed",
+      "detail": []
+    },
+    {
+      "name": "public_dist_forbidden_names",
+      "status": "passed",
+      "detail": []
+    }
+  ]
+}

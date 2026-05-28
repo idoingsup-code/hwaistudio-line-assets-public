@@ -1,0 +1,22 @@
+{
+  "brand_name": "HW AI Studio",
+  "product_name": "HW AI Studio LINE 素材助手",
+  "contacts": [
+    {
+      "type": "line",
+      "label": "LINE",
+      "value": "@935ycsty"
+    },
+    {
+      "type": "email",
+      "label": "Email",
+      "value": "idoingsup@gmail.com"
+    },
+    {
+      "type": "website",
+      "label": "官網",
+      "value": "https://hwaistudio.pythonanywhere.com/"
+    }
+  ],
+  "notes": "官方資訊由管理端維護；使用者端只讀取顯示。"
+}
