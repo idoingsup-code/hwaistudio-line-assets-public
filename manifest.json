@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "asset_version": "2026.05.28.004",
+  "asset_version": "2026.05.28.006",
   "product_name": "HW AI Studio LINE 素材助手",
   "base_url": "",
   "brand_file": "data/brand.json",
   "packs_file": "data/packs.json",
   "announcement_file": "data/announcement.json",
   "release_index_file": "data/release_index.json",
-  "updated_at": "2026-05-28T14:24:40.504459+08:00",
+  "updated_at": "2026-05-28T14:57:36.700408+08:00",
   "integrity": {
     "brand_sha256": "f6ebc8a4318f73cae60986c8fe6f3f519a0dbe15a1277974c11d5644bddfdd2e",
-    "packs_sha256": "f74cfe428da73778156a34251c778efc92ab2b19e1e728ce38a5300996c13882",
+    "packs_sha256": "4b8255cec0ef6e1be9c98907ae1181fed6a46ca3a65c0f796e914de473198baf",
     "announcement_sha256": "99d16c70dc71980011a3bf5fb6d27a7c51bf8b57d7ff94d66ea85e2f625875f0",
-    "release_index_sha256": "2469f13f62b81b21520748ed48aa6d65241dc405ff4110d255699fc1c5f16174"
+    "release_index_sha256": "5d89272b075cad587de9df3a2e19258340389e34c1473131cfde283ef06a6093"
   },
   "signature": {
     "enabled": false,

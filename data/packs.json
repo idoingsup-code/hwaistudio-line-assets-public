@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-28T14:24:40.435087+08:00",
+  "updated_at": "2026-05-28T14:57:36.598383+08:00",
   "pack_groups": [
     {
       "id": "system",
@@ -56,6 +56,16 @@
       "enabled": true,
       "type": "official",
       "icon_item_id": "dog_01"
+    },
+    {
+      "id": "mothersday",
+      "display_name": "母親節",
+      "group": "hw_series",
+      "media_group": "video",
+      "sort": 17,
+      "enabled": true,
+      "type": "official",
+      "icon_item_id": "mothersday_mothers_day_slow_with_music"
     }
   ],
   "items": [
@@ -378,6 +388,26 @@
       "size_bytes": 96356,
       "file_size_bytes": 96356,
       "thumb_size_bytes": 17466
+    },
+    {
+      "id": "mothersday_mothers_day_slow_with_music",
+      "pack_id": "mothersday",
+      "title": "mothers_day_slow_with_music",
+      "media_type": "video",
+      "file_type": "mp4",
+      "file": "assets/videos/mothersday/mothersday_mothers_day_slow_with_music.mp4",
+      "thumb": "thumbs/videos/mothersday/mothersday_mothers_day_slow_with_music.webp",
+      "tags": [
+        "母親節",
+        "hw_series"
+      ],
+      "sort": 10,
+      "enabled": true,
+      "sha256": "cb5838e8357fb764c4d706c479947499932a5a97a39e4ddc6a3a385438c9bcd1",
+      "thumb_sha256": "65f7593b4ee44c37460a6260ede7273097bbc78dc4f2c5078a791fcac866782f",
+      "size_bytes": 10030877,
+      "file_size_bytes": 10030877,
+      "thumb_size_bytes": 1414
     }
   ]
 }
