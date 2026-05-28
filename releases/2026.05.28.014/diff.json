@@ -1,0 +1,22 @@
+{
+  "version": "2026.05.28.014",
+  "generated_at": "2026-05-28T19:06:31.227568+08:00",
+  "changes": {
+    "packs_added": [
+      "hank"
+    ],
+    "packs_modified": [],
+    "packs_removed_or_missing": [
+      "hw_haoshiduo",
+      "mothersday"
+    ],
+    "items_added": [
+      "hank_chibi_greeting_animation",
+      "hank_dog_run_animation_loop"
+    ],
+    "items_modified": [],
+    "items_removed_or_missing": [
+      "mothersday_mothers_day_slow_with_music"
+    ]
+  }
+}

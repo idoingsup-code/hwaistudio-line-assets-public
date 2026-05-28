@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-28T17:56:33.644736+08:00",
+  "updated_at": "2026-05-28T21:51:49.252496+08:00",
   "pack_groups": [
     {
       "id": "system",
@@ -37,17 +37,6 @@
       "enabled": true
     },
     {
-      "id": "hw_haoshiduo",
-      "display_name": "好事多",
-      "group": "hw_series",
-      "group_display_name": "HW 系列",
-      "type": "official",
-      "media_group": "mixed",
-      "icon_item_id": null,
-      "sort": 10,
-      "enabled": true
-    },
-    {
       "id": "dog",
       "display_name": "柴犬",
       "group": "system",
@@ -58,16 +47,6 @@
       "icon_item_id": "dog_01"
     },
     {
-      "id": "mothersday",
-      "display_name": "母親節",
-      "group": "hw_series",
-      "media_group": "video",
-      "sort": 17,
-      "enabled": true,
-      "type": "official",
-      "icon_item_id": "mothersday_mothers_day_slow_with_music"
-    },
-    {
       "id": "gif_mon",
       "display_name": "母親節",
       "group": "hw_series",
@@ -76,13 +55,23 @@
       "enabled": true,
       "type": "official",
       "icon_item_id": "gif_mon_mothers_day_slow"
+    },
+    {
+      "id": "hank",
+      "display_name": "Hank動態圖示",
+      "group": "hw_series",
+      "media_group": "mixed",
+      "sort": 14,
+      "enabled": true,
+      "type": "official",
+      "icon_item_id": "hank_chibi_greeting_animation"
     }
   ],
   "items": [
     {
       "id": "dog_01",
       "pack_id": "dog",
-      "title": "01",
+      "title": "早安",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_01.png",
@@ -102,7 +91,7 @@
     {
       "id": "dog_02",
       "pack_id": "dog",
-      "title": "02",
+      "title": "晚安",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_02.png",
@@ -122,7 +111,7 @@
     {
       "id": "dog_03",
       "pack_id": "dog",
-      "title": "03",
+      "title": "謝謝",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_03.png",
@@ -142,7 +131,7 @@
     {
       "id": "dog_04",
       "pack_id": "dog",
-      "title": "04",
+      "title": "對不起",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_04.png",
@@ -162,7 +151,7 @@
     {
       "id": "dog_05",
       "pack_id": "dog",
-      "title": "05",
+      "title": "ok",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_05.png",
@@ -182,7 +171,7 @@
     {
       "id": "dog_06",
       "pack_id": "dog",
-      "title": "06",
+      "title": "收到",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_06.png",
@@ -202,7 +191,7 @@
     {
       "id": "dog_07",
       "pack_id": "dog",
-      "title": "07",
+      "title": "加油",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_07.png",
@@ -222,7 +211,7 @@
     {
       "id": "dog_08",
       "pack_id": "dog",
-      "title": "08",
+      "title": "辛苦了",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_08.png",
@@ -242,7 +231,7 @@
     {
       "id": "dog_09",
       "pack_id": "dog",
-      "title": "09",
+      "title": "哈哈大笑",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_09.png",
@@ -262,7 +251,7 @@
     {
       "id": "dog_10",
       "pack_id": "dog",
-      "title": "10",
+      "title": "哭哭",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_10.png",
@@ -282,7 +271,7 @@
     {
       "id": "dog_11",
       "pack_id": "dog",
-      "title": "11",
+      "title": "生氣",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_11.png",
@@ -302,7 +291,7 @@
     {
       "id": "dog_12",
       "pack_id": "dog",
-      "title": "12",
+      "title": "驚訝",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_12.png",
@@ -322,7 +311,7 @@
     {
       "id": "dog_13",
       "pack_id": "dog",
-      "title": "13",
+      "title": "愛心抱抱",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_13.png",
@@ -342,7 +331,7 @@
     {
       "id": "dog_14",
       "pack_id": "dog",
-      "title": "14",
+      "title": "吃飯中",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_14.png",
@@ -362,7 +351,7 @@
     {
       "id": "dog_15",
       "pack_id": "dog",
-      "title": "15",
+      "title": "睡覺中",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_15.png",
@@ -382,7 +371,7 @@
     {
       "id": "dog_16",
       "pack_id": "dog",
-      "title": "16",
+      "title": "拜託",
       "media_type": "image",
       "file_type": "png",
       "file": "assets/stickers/dog/dog_16.png",
@@ -398,26 +387,6 @@
       "size_bytes": 96356,
       "file_size_bytes": 96356,
       "thumb_size_bytes": 17466
-    },
-    {
-      "id": "mothersday_mothers_day_slow_with_music",
-      "pack_id": "mothersday",
-      "title": "mothers_day_slow_with_music",
-      "media_type": "video",
-      "file_type": "mp4",
-      "file": "assets/videos/mothersday/mothersday_mothers_day_slow_with_music.mp4",
-      "thumb": "thumbs/videos/mothersday/mothersday_mothers_day_slow_with_music.webp",
-      "tags": [
-        "母親節",
-        "hw_series"
-      ],
-      "sort": 10,
-      "enabled": true,
-      "sha256": "cb5838e8357fb764c4d706c479947499932a5a97a39e4ddc6a3a385438c9bcd1",
-      "thumb_sha256": "65f7593b4ee44c37460a6260ede7273097bbc78dc4f2c5078a791fcac866782f",
-      "size_bytes": 10030877,
-      "file_size_bytes": 10030877,
-      "thumb_size_bytes": 1414
     },
     {
       "id": "gif_mon_mothers_day_slow",
@@ -438,6 +407,46 @@
       "size_bytes": 3151934,
       "file_size_bytes": 3151934,
       "thumb_size_bytes": 4316
+    },
+    {
+      "id": "hank_chibi_greeting_animation",
+      "pack_id": "hank",
+      "title": "Hank連續動態",
+      "media_type": "motion",
+      "file_type": "gif",
+      "file": "assets/motions/hank/hank_chibi_greeting_animation.gif",
+      "thumb": "thumbs/motions/hank/hank_chibi_greeting_animation.webp",
+      "tags": [
+        "Hank動態圖示",
+        "hw_series"
+      ],
+      "sort": 10,
+      "enabled": true,
+      "sha256": "d24bfd1567e47977d5beaf4b3f88b1b9f172e7d842fb9d71639b776966ef0feb",
+      "thumb_sha256": "5e4650a0ba65a5369e13c50e8ab2245a786029c63cc56c67a3297fd69d5d6094",
+      "size_bytes": 185708,
+      "file_size_bytes": 185708,
+      "thumb_size_bytes": 11430
+    },
+    {
+      "id": "hank_dog_run_animation_loop",
+      "pack_id": "hank",
+      "title": "開心的狗",
+      "media_type": "motion",
+      "file_type": "gif",
+      "file": "assets/motions/hank/hank_dog_run_animation_loop.gif",
+      "thumb": "thumbs/motions/hank/hank_dog_run_animation_loop.webp",
+      "tags": [
+        "Hank動態圖示",
+        "hw_series"
+      ],
+      "sort": 20,
+      "enabled": true,
+      "sha256": "f216e05b02eccf27b289cd9cf725f390dfc1d58aa488b7cb13e04576797aba61",
+      "thumb_sha256": "f9d62fcc77a214325e38dabd390eca6284558b16dea2c52f2efc2d682905cada",
+      "size_bytes": 229057,
+      "file_size_bytes": 229057,
+      "thumb_size_bytes": 27364
     }
   ]
 }

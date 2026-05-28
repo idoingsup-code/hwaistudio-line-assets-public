@@ -1,7 +1,43 @@
 {
-  "latest_version": "2026.05.28.013",
-  "updated_at": "2026-05-28T17:56:33.733064+08:00",
+  "latest_version": "2026.05.28.016",
+  "updated_at": "2026-05-28T21:51:49.326575+08:00",
   "releases": [
+    {
+      "version": "2026.05.28.016",
+      "published_at": "2026-05-28T21:51:49.252496+08:00",
+      "title": "Official public asset release",
+      "summary": "本機發布包產生完成：素材包 5 個，素材 19 筆。",
+      "report": "releases/2026.05.28.016/report.md",
+      "release_file": "releases/2026.05.28.016/release.json",
+      "diff": "releases/2026.05.28.016/diff.json",
+      "validation": "releases/2026.05.28.016/validation.json",
+      "file_checksums": "releases/2026.05.28.016/file_checksums.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.015",
+      "published_at": "2026-05-28T21:42:24.054304+08:00",
+      "title": "柴犬修正",
+      "summary": "本機發布包產生完成：素材包 5 個，素材 19 筆。",
+      "report": "releases/2026.05.28.015/report.md",
+      "release_file": "releases/2026.05.28.015/release.json",
+      "diff": "releases/2026.05.28.015/diff.json",
+      "validation": "releases/2026.05.28.015/validation.json",
+      "file_checksums": "releases/2026.05.28.015/file_checksums.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.014",
+      "published_at": "2026-05-28T19:06:31.165361+08:00",
+      "title": "素材發布",
+      "summary": "本機發布包產生完成：素材包 5 個，素材 19 筆。",
+      "report": "releases/2026.05.28.014/report.md",
+      "release_file": "releases/2026.05.28.014/release.json",
+      "diff": "releases/2026.05.28.014/diff.json",
+      "validation": "releases/2026.05.28.014/validation.json",
+      "file_checksums": "releases/2026.05.28.014/file_checksums.json",
+      "status": "published_local"
+    },
     {
       "version": "2026.05.28.013",
       "published_at": "2026-05-28T17:56:33.644736+08:00",
