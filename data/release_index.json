@@ -1,14 +1,38 @@
 {
-  "latest_version": "2026.05.28.004",
-  "updated_at": "2026-05-28T09:30:00+08:00",
+  "latest_version": "2026.05.28.006",
+  "updated_at": "2026-05-28T12:54:24.696853+08:00",
   "releases": [
     {
-      "version": "2026.05.28.004",
-      "published_at": "2026-05-28T10:28:00.082110+08:00",
+      "version": "2026.05.28.006",
+      "published_at": "2026-05-28T12:54:24.636073+08:00",
       "title": "Manual local release",
+      "summary": "本機發布包產生完成：素材包 4 個，素材 16 筆。",
+      "report": "releases/2026.05.28.006/report.md",
+      "release_file": "releases/2026.05.28.006/release.json",
+      "diff": "releases/2026.05.28.006/diff.json",
+      "validation": "releases/2026.05.28.006/validation.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.005",
+      "published_at": "2026-05-28T12:52:49.969868+08:00",
+      "title": "素材發布",
+      "summary": "本機發布包產生完成：素材包 4 個，素材 16 筆。",
+      "report": "releases/2026.05.28.005/report.md",
+      "release_file": "releases/2026.05.28.005/release.json",
+      "diff": "releases/2026.05.28.005/diff.json",
+      "validation": "releases/2026.05.28.005/validation.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.004",
+      "published_at": "2026-05-28T12:47:13.605741+08:00",
+      "title": "v0.8.1 管理端修正",
       "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
       "report": "releases/2026.05.28.004/report.md",
       "release_file": "releases/2026.05.28.004/release.json",
+      "diff": "releases/2026.05.28.004/diff.json",
+      "validation": "releases/2026.05.28.004/validation.json",
       "status": "published_local"
     },
     {
