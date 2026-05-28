@@ -1,9 +1,9 @@
 # HW AI Studio LINE 素材助手 / 素材管理器
 
-版本：v0.9.10 測試修正版  
+版本：v0.9.11 測試修正版  
 更新日期：2026-05-28  
 專案：LINE 外掛貼圖 / HW AI Studio LINE 素材助手  
-狀態：功能測試中；PNG/JPG 與 GIF 流程保持既有可用狀態，MP4 改為真實檔案拖放模擬，仍需 Windows + LINE 實機確認。
+狀態：功能測試中；PNG/JPG 維持貼圖流程，GIF 固定回既有可用流程，MP4 完全脫離剪貼簿流程並獨立走拖放模擬，仍需 Windows + LINE 實機確認。
 
 ---
 
@@ -17,11 +17,13 @@
 
 ---
 
-## 0. v0.9.10 重要更新
+## 0. v0.9.11 重要更新
 
-- GIF：回復並鎖定既有可用流程，不再套用 MP4 實驗流程。
-- MP4 / MOV / M4V：改用 Windows 真實檔案拖放模擬，目標是讓 LINE 自行跳出「傳送檔案」確認視窗。
-- 03_PUBLISH_OFFICIAL_ASSETS.bat：產生官方公開包時，會把主目錄 README.md 複製到公開 repo 根目錄並一起 commit / push。
+- GIF：固定回既有可用的檔案貼上流程，不再套用 MP4 拖放流程。
+- MP4 / MOV / M4V：完全禁止進入剪貼簿流程，獨立走 Windows 真實檔案拖放模擬。
+- 錯誤訊息分流：MP4 失敗時顯示「MP4 拖放失敗」，不再誤顯示 Clipboard operation failed。
+- 素材類型判斷改為優先依副檔名判斷，避免 manifest metadata 異常造成 GIF / MP4 流程混用。
+- 03_PUBLISH_OFFICIAL_ASSETS.bat：主目錄 README.md 仍會隨官方公開素材一起 commit / push。
 - 發布目標仍強制鎖定 `idoingsup-code/hwaistudio-line-assets-public`。
 
 ## 2. 日常使用入口
@@ -323,3 +325,12 @@ reports/known_issues_<version>_<date>.md
 2. GIF：維持目前可用流程；若 LINE 顯示「圖片 / 文字」，選「圖片」後 GIF 應進入訊息框。
 3. MP4：點擊後應嘗試拖放到指定 LINE 視窗，理想結果是 LINE 出現「傳送檔案」確認視窗。
 4. 發布：執行 `03_PUBLISH_OFFICIAL_ASSETS.bat` 後，公開 repo 根目錄應同步出現此 README.md。
+
+
+### v0.9.11
+
+- 使用者端版本：2026.05.28.027。
+- PNG / JPG：維持貼圖剪貼簿流程。
+- GIF / APNG：固定使用原本可用的檔案貼上流程。
+- MP4 / MOV / M4V：完全獨立於剪貼簿，改走拖放模擬；若失敗，錯誤訊息會明確標示為 MP4 拖放失敗。
+- README 與 reports 必須跟版本同步更新。
