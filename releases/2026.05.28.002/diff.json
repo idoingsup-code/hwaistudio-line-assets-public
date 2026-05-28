@@ -1,8 +1,9 @@
 {
   "version": "2026.05.28.002",
-  "generated_at": "2026-05-28T09:59:58.158922+08:00",
+  "generated_at": "2026-05-28T13:42:38.211280+08:00",
   "changes": {
     "packs_added": [
+      "dog",
       "favorites",
       "hw_haoshiduo",
       "recent"
@@ -10,9 +11,22 @@
     "packs_modified": [],
     "packs_removed_or_missing": [],
     "items_added": [
-      "hw_haoshiduo_001",
-      "hw_haoshiduo_002",
-      "hw_haoshiduo_motion_001"
+      "dog_01",
+      "dog_02",
+      "dog_03",
+      "dog_04",
+      "dog_05",
+      "dog_06",
+      "dog_07",
+      "dog_08",
+      "dog_09",
+      "dog_10",
+      "dog_11",
+      "dog_12",
+      "dog_13",
+      "dog_14",
+      "dog_15",
+      "dog_16"
     ],
     "items_modified": [],
     "items_removed_or_missing": []

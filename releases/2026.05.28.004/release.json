@@ -1,10 +1,10 @@
 {
   "version": "2026.05.28.004",
-  "title": "v0.8.1 管理端修正",
-  "published_at": "2026-05-28T12:47:13.605741+08:00",
+  "title": "Official public asset release",
+  "published_at": "2026-05-28T14:24:40.435087+08:00",
   "status": "published_local",
-  "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+  "summary": "本機發布包產生完成：素材包 4 個，素材 16 筆。",
   "asset_version": "2026.05.28.004",
   "app": "HW AI Studio 素材管理器",
-  "app_version": "v0.8.1 管理端"
+  "app_version": "v0.9.3 管理端"
 }
