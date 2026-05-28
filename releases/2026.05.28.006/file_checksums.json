@@ -1,92 +1,12 @@
 {
-  "generated_at": "2026-05-28T13:19:42.240820+08:00",
-  "file_count": 120,
-  "total_size_bytes": 5602802,
+  "generated_at": "2026-05-28T13:15:50.061635+08:00",
+  "file_count": 46,
+  "total_size_bytes": 162008,
   "files": [
     {
       "path": "assets/motions/hw_haoshiduo/hw_haoshiduo_motion_001.gif",
       "size_bytes": 64944,
       "sha256": "4a42c0ee11ebc07a1455017e5566b6a32eb92c78dfc6c5fad155ff0744f89675"
-    },
-    {
-      "path": "assets/stickers/dog/dog_01.png",
-      "size_bytes": 126382,
-      "sha256": "62efdd56563f51148feac6c0d59b975f4e45620782c055e0a58abba5648435eb"
-    },
-    {
-      "path": "assets/stickers/dog/dog_02.png",
-      "size_bytes": 138869,
-      "sha256": "80cf6d3eff71fc592e12292626cecb9f6105d9d8c374215ea49d4fcaff2435be"
-    },
-    {
-      "path": "assets/stickers/dog/dog_03.png",
-      "size_bytes": 125916,
-      "sha256": "e6385176913be00c4693910ac673ac33a6f2767932ef4709fe0352b003ffa76a"
-    },
-    {
-      "path": "assets/stickers/dog/dog_04.png",
-      "size_bytes": 124642,
-      "sha256": "17028ff71a8f2740d31c1eef0ac99cd492c3aba5f32801e1821bf59deb08ec27"
-    },
-    {
-      "path": "assets/stickers/dog/dog_05.png",
-      "size_bytes": 118581,
-      "sha256": "95bf36c17fd9a7c63e708c010c8050c37da098a3fa5c07499a089e9e97649067"
-    },
-    {
-      "path": "assets/stickers/dog/dog_06.png",
-      "size_bytes": 109808,
-      "sha256": "fb73a8506e510c3ed502d15627a899e55ffd99e9775ea7ff0af972c670be0d6c"
-    },
-    {
-      "path": "assets/stickers/dog/dog_07.png",
-      "size_bytes": 132381,
-      "sha256": "d592ff2ad32d4be796e1a990280c5bba32bd61c0fbb122b39552d689b2e10b68"
-    },
-    {
-      "path": "assets/stickers/dog/dog_08.png",
-      "size_bytes": 125630,
-      "sha256": "d99de8115e8ba089613e04e8e4370040adc205b5b76d7b7d31d3b40bc8ce92fa"
-    },
-    {
-      "path": "assets/stickers/dog/dog_09.png",
-      "size_bytes": 121066,
-      "sha256": "719eb5ac3e4101ff3ed9700eb32513db6f08db98e497fce651ecf16cbfa6aa56"
-    },
-    {
-      "path": "assets/stickers/dog/dog_10.png",
-      "size_bytes": 109837,
-      "sha256": "d6775a14089d746cf3d7679566edec693d5317d5755ff1d05aede11ef5a24b36"
-    },
-    {
-      "path": "assets/stickers/dog/dog_11.png",
-      "size_bytes": 127118,
-      "sha256": "90649e0114977afb86f6586a0dec47b868d9021fe20a4a2abd0474dab3f4b12d"
-    },
-    {
-      "path": "assets/stickers/dog/dog_12.png",
-      "size_bytes": 113768,
-      "sha256": "cb5457c908e37c9ba901e62b72bdbd08e192a3073a98a50365968ecce36fc3b1"
-    },
-    {
-      "path": "assets/stickers/dog/dog_13.png",
-      "size_bytes": 132682,
-      "sha256": "e1bd76847f96e1f7f1254526496ba2668ebd42879ed2eb2280a02141fb22f67f"
-    },
-    {
-      "path": "assets/stickers/dog/dog_14.png",
-      "size_bytes": 130657,
-      "sha256": "895bf0f09bfd0df732e0b626d643882e9f5de6c4744b449619b2ae682a451eb8"
-    },
-    {
-      "path": "assets/stickers/dog/dog_15.png",
-      "size_bytes": 145200,
-      "sha256": "d3ad598251d8be0c105b3acde86489c079d1a903517ae4d17f8a62163dfa4bf2"
-    },
-    {
-      "path": "assets/stickers/dog/dog_16.png",
-      "size_bytes": 96356,
-      "sha256": "eb53e9219d669ddf151aac4e68144cf5214c0bdcf4e21db603f5725ef67e1f7e"
     },
     {
       "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_001.png",
@@ -97,66 +17,6 @@
       "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_002.png",
       "size_bytes": 7793,
       "sha256": "9595dfb6c13d8d4ce55173de3432df74f1e0308d8908db0b898eb6e6086df29c"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_01.png",
-      "size_bytes": 257600,
-      "sha256": "a484c06aca428df8477cda9e624e29e6f3da03285ba2d83646fbe84ad10cc18d"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_02.png",
-      "size_bytes": 252927,
-      "sha256": "f616ad4a7d249f41e2e876e44727b507f28d280a206ae6cac0479992ec7e5aba"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_03.png",
-      "size_bytes": 225915,
-      "sha256": "5ad643c4ce15431e756f70b6f049e3f630cd47c3cd813cce37738e89ef117313"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_04.png",
-      "size_bytes": 246953,
-      "sha256": "b55bd1a3dc7438f7420c559220f873851b1f39279d2d4af6b8c126c1ff1cfa87"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_05.png",
-      "size_bytes": 248161,
-      "sha256": "5c4412f6171d561f240d35a9216b35ebd3d6823ffda3774297daa89893e67b79"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_06.png",
-      "size_bytes": 239475,
-      "sha256": "5b6365fae443381de212767d8af8f1c5d2f325c137ec77a1161e0bf73030939c"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_07.png",
-      "size_bytes": 229257,
-      "sha256": "ff3623b902bfea63197df4d90abee5b5d59c0f239442eb3d532a1eae4a0d0583"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_08.png",
-      "size_bytes": 251925,
-      "sha256": "242fb4d490db62c74c3c5de767ef0566322fa8ce619ce43ca829240bd15ab0a4"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_09.png",
-      "size_bytes": 241559,
-      "sha256": "cc4052c1e3cdd89ff2c5c12c82c10fb26801bff85a8095c279723ad1df7102e1"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_10.png",
-      "size_bytes": 246893,
-      "sha256": "a6ca831726eaf13e617d37666e997caf66a28378dc221e7b8175b5b02cff9c53"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_11.png",
-      "size_bytes": 251023,
-      "sha256": "18a8064786644af59c7aed0db7419b45b82fa686f6279af1326fbf8177ea3fdd"
-    },
-    {
-      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_sticker_12.png",
-      "size_bytes": 248747,
-      "sha256": "e10f9684c1f985b45967ff543b631c1f587ca93636f947f2dabf5533c1d08fba"
     },
     {
       "path": "data/announcement.json",
@@ -170,18 +30,18 @@
     },
     {
       "path": "data/packs.json",
-      "size_bytes": 11277,
-      "sha256": "a76d2fddae9093b8f5f694e2630609c3f554255bb8605605484179e07b88315f"
+      "size_bytes": 3405,
+      "sha256": "542b3d831794f0938d5b74c9b9df7394f0770cf6143822720b9e03f9c839ac6e"
     },
     {
       "path": "data/release_index.json",
-      "size_bytes": 3056,
-      "sha256": "ea9281fcaa48ff9b127af353479139d2b3a7a7298dd95411eda4250b8d352d90"
+      "size_bytes": 3007,
+      "sha256": "a4c1ad5dde6659119682188045a88bd88408bebfd82d06e62aec56661380ee40"
     },
     {
       "path": "manifest.json",
-      "size_bytes": 892,
-      "sha256": "b0b94d564e88692e8de3f285a1820908286e0f7b2b5003a157d8c9ce0047fc8e"
+      "size_bytes": 872,
+      "sha256": "abae040e84e019656309dfd44df0cc3b10d8b1877872ce6d36fff5c4e81aad74"
     },
     {
       "path": "releases/2026.05.28.001/diff.json",
@@ -330,208 +190,38 @@
     },
     {
       "path": "releases/2026.05.28.006/diff.json",
-      "size_bytes": 704,
-      "sha256": "76f4bc39ced3a0a25f0a68305ba615b851330063d3aed9f0de03eed5b87b21bb"
+      "size_bytes": 276,
+      "sha256": "9b0002647b1ae54dbefd018071c665a18bb8c021c76bded2b7033671ba117379"
     },
     {
       "path": "releases/2026.05.28.006/manifest_snapshot.json",
-      "size_bytes": 892,
-      "sha256": "b0b94d564e88692e8de3f285a1820908286e0f7b2b5003a157d8c9ce0047fc8e"
+      "size_bytes": 872,
+      "sha256": "abae040e84e019656309dfd44df0cc3b10d8b1877872ce6d36fff5c4e81aad74"
     },
     {
       "path": "releases/2026.05.28.006/packs_snapshot.json",
-      "size_bytes": 11277,
-      "sha256": "a76d2fddae9093b8f5f694e2630609c3f554255bb8605605484179e07b88315f"
+      "size_bytes": 3405,
+      "sha256": "542b3d831794f0938d5b74c9b9df7394f0770cf6143822720b9e03f9c839ac6e"
     },
     {
       "path": "releases/2026.05.28.006/release.json",
-      "size_bytes": 348,
-      "sha256": "3140aaa759c5c9ff92586ab1dfb3580d3528473624b88916de1dad4e7703e237"
+      "size_bytes": 358,
+      "sha256": "0e458ceebf3d3a898ba82a10140ee2f1f9a181f29e8c7fa3536410d68b2ed7a0"
     },
     {
       "path": "releases/2026.05.28.006/report.md",
-      "size_bytes": 877,
-      "sha256": "7a65d1ec5c2d8e109e54d213767984028356257b10ba7ca7687f6b708418bea7"
+      "size_bytes": 625,
+      "sha256": "c11fa610bf4ace8a2f5f8d03b4251a0ee4de29c2b35a2f23c7d9b03a6cabee9b"
     },
     {
       "path": "releases/2026.05.28.006/validation.json",
-      "size_bytes": 2173,
-      "sha256": "f0ef89746b7a70de15c584a7c0e28d23f8e419499a08c433fd50eee6f5feedfc"
-    },
-    {
-      "path": "releases/2026.05.28.007/diff.json",
-      "size_bytes": 287,
-      "sha256": "eda0349ee1bd796203c77a475655ffbd322cf4d6d58d85872ddbecde9ed77f96"
-    },
-    {
-      "path": "releases/2026.05.28.007/manifest_snapshot.json",
-      "size_bytes": 892,
-      "sha256": "240c1f7929ff1c009c08cb8720d49c839ca0b16222bcfdcfb5f7e0cae1f1cef4"
-    },
-    {
-      "path": "releases/2026.05.28.007/packs_snapshot.json",
-      "size_bytes": 11332,
-      "sha256": "f5b8309ea3c058055254ec84b0a840705612c2770d35bd61b549f6cb5d67df47"
-    },
-    {
-      "path": "releases/2026.05.28.007/release.json",
-      "size_bytes": 358,
-      "sha256": "c156595b8e8cc380182d1e40dfcde39e965700a98fa5c0668fade261d13cbc3f"
-    },
-    {
-      "path": "releases/2026.05.28.007/report.md",
-      "size_bytes": 663,
-      "sha256": "df813bf46915056f2b019d8daf36cb01e99a4dad0df91b885e9a94a9e154372a"
-    },
-    {
-      "path": "releases/2026.05.28.007/validation.json",
-      "size_bytes": 2173,
-      "sha256": "ecb8670752f41c7f9079a693c8c9a7ca811e148f44973c8da55c53dd07e56f6e"
-    },
-    {
-      "path": "releases/2026.05.28.008/diff.json",
-      "size_bytes": 309,
-      "sha256": "969a29026db663108ded254961eebbb76c732b78947ab18cedb6f7efc1d37bc7"
-    },
-    {
-      "path": "releases/2026.05.28.008/manifest_snapshot.json",
-      "size_bytes": 892,
-      "sha256": "0f938ccef4aa636867c2807a9a75f64ec1779472d660170ea1b4ad7b45dac0e4"
-    },
-    {
-      "path": "releases/2026.05.28.008/packs_snapshot.json",
-      "size_bytes": 11330,
-      "sha256": "76cc5caf6eaf24530579b1b6a5965315e4c6a05c705eca1a22ec485a15ed45c8"
-    },
-    {
-      "path": "releases/2026.05.28.008/release.json",
-      "size_bytes": 350,
-      "sha256": "04142d1e7bf2749a284b3f5338aa488769e69ceefb498d6cc22439a0674ec546"
-    },
-    {
-      "path": "releases/2026.05.28.008/report.md",
-      "size_bytes": 658,
-      "sha256": "88b74f462f9d564b1a5264c1ff45d5a097fedfc592f60a4da6e69a3a2600e869"
-    },
-    {
-      "path": "releases/2026.05.28.008/validation.json",
-      "size_bytes": 2173,
-      "sha256": "61b6b5bfb0bd3852209c5e98cd06e1612836ab0c9813e1a16e0f4781e51a629f"
-    },
-    {
-      "path": "releases/2026.05.28.009/diff.json",
-      "size_bytes": 287,
-      "sha256": "3deb426044d5b77c2bdef54dd585a9d303eb0b71d2adc1e953585f89fa3fc4a1"
-    },
-    {
-      "path": "releases/2026.05.28.009/manifest_snapshot.json",
-      "size_bytes": 892,
-      "sha256": "069be6c436e4b7b5239b7c436cab67e178d078ccdeba6894bc1cabef0e995f3d"
-    },
-    {
-      "path": "releases/2026.05.28.009/packs_snapshot.json",
-      "size_bytes": 11330,
-      "sha256": "5a3259aced4790d250778d1af7294f932dc003a9367ba3447db69f48cb502f40"
-    },
-    {
-      "path": "releases/2026.05.28.009/release.json",
-      "size_bytes": 358,
-      "sha256": "9f166364c16450bd209540f27ccad4b41bcbe267227a0447b853ac3487257d56"
-    },
-    {
-      "path": "releases/2026.05.28.009/report.md",
-      "size_bytes": 663,
-      "sha256": "21c7862b28559187f949535e21fc207a7ef71058817da9f903acbb72fae9143a"
-    },
-    {
-      "path": "releases/2026.05.28.009/validation.json",
-      "size_bytes": 2173,
-      "sha256": "c90009341cd28ead985f87a3eab6958e134e96cd8510043c3e6e2f1ecf5aac4e"
+      "size_bytes": 2072,
+      "sha256": "10cb7de6db23d7683e82b7d240487cff3e2fef9b58612024539db3a8f5c58e8d"
     },
     {
       "path": "thumbs/motions/hw_haoshiduo/hw_haoshiduo_motion_001.webp",
       "size_bytes": 10424,
       "sha256": "82fdaff2d0d584f791e1e83ed22ea1fb18fac8c5696f8b4991ea5644f9dfeb51"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_01.webp",
-      "size_bytes": 17160,
-      "sha256": "69dbda7472cb02401fece0648b9fd9819b540ecfd9c01be5821ba418a5af3807"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_02.webp",
-      "size_bytes": 18400,
-      "sha256": "eb9793156a46e4010270bddf73a1f5cc4240d936cd86cf4b423f42655fe2b3fb"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_03.webp",
-      "size_bytes": 17480,
-      "sha256": "c8b3e79ca821176d6ffd842c283bcf84fb6c03db366726b75c78fd48db034e8c"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_04.webp",
-      "size_bytes": 17714,
-      "sha256": "846cf276bae75bbf2e18de72f39bfeba7cb1fec9094dfe69543d7ddbba9e4144"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_05.webp",
-      "size_bytes": 13932,
-      "sha256": "e3bfdebf698a803e903b58e31d09c7df0319307dd05f337a31da08d3daabf673"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_06.webp",
-      "size_bytes": 14544,
-      "sha256": "8a5c42a40155a93f9107fea950547fbc5f4b4b9002d303db30f557279568c7c0"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_07.webp",
-      "size_bytes": 18596,
-      "sha256": "fae4b8443e2f4a19989f7bf3559dbea6bf36a3c29ca6b9a6758c5a62bfa2b41a"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_08.webp",
-      "size_bytes": 16954,
-      "sha256": "e0703bfdabceb3354771a87c00cb77176ce0c03b79927e2384f97d917986ff8f"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_09.webp",
-      "size_bytes": 19444,
-      "sha256": "c427c5deb2134120cf4879b259b7dad461a4198fb6740d486464b25a760f6acd"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_10.webp",
-      "size_bytes": 14736,
-      "sha256": "029b266978e8008adbe9a35203738e9616ceb1fe82e143b74d9c19f5d6f6df16"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_11.webp",
-      "size_bytes": 19506,
-      "sha256": "9009a336acae820e0b4f7ea7a1f94a97f4a3d9394c54ea19056d26b857119bce"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_12.webp",
-      "size_bytes": 15426,
-      "sha256": "2c2ddf5ec34c204812cc1e7dd4828ba815dfb9b7051fba63d09dbc3021ee88df"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_13.webp",
-      "size_bytes": 18336,
-      "sha256": "32f294b31d11b1f6120dcbb841fd98dc840753ba609926f3ad2964496463dc2b"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_14.webp",
-      "size_bytes": 17450,
-      "sha256": "2c7fbd533c1b059f1c7ca247bf5c4890690d4fc0343a7b9b58859afde8af944e"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_15.webp",
-      "size_bytes": 18810,
-      "sha256": "c687a7bb5bd6eb3bf596e7ac602451105e32b61d162b057dfc50159a65a2aaf5"
-    },
-    {
-      "path": "thumbs/stickers/dog/dog_16.webp",
-      "size_bytes": 17466,
-      "sha256": "3bdff225f819297c191938bed2196599663271373a0334f7b2a6be884a0bb9e7"
     },
     {
       "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_001.webp",
@@ -542,66 +232,6 @@
       "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_002.webp",
       "size_bytes": 11356,
       "sha256": "90643763d1f06ad5db396c9c1dcf9885bb058ac8468e62afec27d6b790353fbc"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_01.webp",
-      "size_bytes": 15336,
-      "sha256": "eeeaadd48041db7720c5ee311cedfd89888b75e0ac5c8aafea5e799d87e92cf4"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_02.webp",
-      "size_bytes": 13810,
-      "sha256": "e9aa7b17a4efe573d414abf4a4012f07fef0420d1ef98fa8f4bbe54e43f78a61"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_03.webp",
-      "size_bytes": 10640,
-      "sha256": "d470c7785d9b7a628b1c3789858f7efd859b675dc98d7f39fcb5f815ace2194a"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_04.webp",
-      "size_bytes": 15484,
-      "sha256": "5018ee98fe154bd4a76c707e8dffc26e446f22c527ef1ecf9937d68d74676d63"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_05.webp",
-      "size_bytes": 15310,
-      "sha256": "c2b35376b5eb89b2ed3efaff20197689798c6bf0ff47aae34b66302c5b3c224e"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_06.webp",
-      "size_bytes": 14852,
-      "sha256": "8365bae3e335b89bc6591bf6f05edb7f67d82434092d0132eaca1e6c82cf2eef"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_07.webp",
-      "size_bytes": 14296,
-      "sha256": "d4bbbed9f1f828679c8c7c6479722f267868bf60dc90fc493425fa206d725e45"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_08.webp",
-      "size_bytes": 17944,
-      "sha256": "a501f2423a4dc8ff8a21327b6748328127de9db8227633fa9a190bdceb9f4682"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_09.webp",
-      "size_bytes": 14808,
-      "sha256": "d2539ec31aa78dff86d61b98edcab464611a4626737adbfe17aa64e414a1429f"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_10.webp",
-      "size_bytes": 16250,
-      "sha256": "8f0e97608806ba926787712e54425bc3f6a8f7bc42a5d2704b52f10fabee77bc"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_11.webp",
-      "size_bytes": 15960,
-      "sha256": "75f54efd84aca732d0b0fd8a6ba52d32247892e447a9341dc690149b2102185a"
-    },
-    {
-      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_sticker_12.webp",
-      "size_bytes": 17098,
-      "sha256": "86489c1c8cdc8e55ee15b308d047d743f580479bb9b308b948ce208e7e77ce3d"
     }
   ]
 }

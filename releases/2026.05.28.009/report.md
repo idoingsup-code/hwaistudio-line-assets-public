@@ -1,14 +1,14 @@
 # HW AI Studio LINE 素材發布報告
 
 版本：2026.05.28.009  
-標題：Manual local release  
-發布時間：2026-05-28T13:10:10.745282+08:00  
+標題：Official public asset release  
+發布時間：2026-05-28T13:43:55.276433+08:00  
 狀態：published_local  
 
 ## 統計
 
-- 素材包數量：4
-- 素材數量：16
+- 素材包數量：3
+- 素材數量：3
 
 ## 新增素材包
 

@@ -1,0 +1,447 @@
+{
+  "generated_at": "2026-05-28T13:50:34.045043+08:00",
+  "file_count": 88,
+  "total_size_bytes": 282746,
+  "files": [
+    {
+      "path": "assets/motions/hw_haoshiduo/hw_haoshiduo_motion_001.gif",
+      "size_bytes": 64944,
+      "sha256": "4a42c0ee11ebc07a1455017e5566b6a32eb92c78dfc6c5fad155ff0744f89675"
+    },
+    {
+      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_001.png",
+      "size_bytes": 7845,
+      "sha256": "e5c745c5cd68ba749c8b19c7fa1052c6d2d2202fe7e6da4a6f51b9dd3cef4b9f"
+    },
+    {
+      "path": "assets/stickers/hw_haoshiduo/hw_haoshiduo_002.png",
+      "size_bytes": 7793,
+      "sha256": "9595dfb6c13d8d4ce55173de3432df74f1e0308d8908db0b898eb6e6086df29c"
+    },
+    {
+      "path": "data/announcement.json",
+      "size_bytes": 264,
+      "sha256": "99d16c70dc71980011a3bf5fb6d27a7c51bf8b57d7ff94d66ea85e2f625875f0"
+    },
+    {
+      "path": "data/brand.json",
+      "size_bytes": 485,
+      "sha256": "f6ebc8a4318f73cae60986c8fe6f3f519a0dbe15a1277974c11d5644bddfdd2e"
+    },
+    {
+      "path": "data/packs.json",
+      "size_bytes": 3536,
+      "sha256": "43abc77a0b48a3b0e461caba926314d7fe364c384c04b776aee9899c751a3c2f"
+    },
+    {
+      "path": "data/release_index.json",
+      "size_bytes": 6574,
+      "sha256": "4e5cf089d6c9c06319f849369faab364897e2c217ee657a7d600a70213173035"
+    },
+    {
+      "path": "manifest.json",
+      "size_bytes": 892,
+      "sha256": "62d90a3e74abc16c4fc03e155d223296531d5d4776f2da86317cef938a04558c"
+    },
+    {
+      "path": "releases/2026.05.28.001/diff.json",
+      "size_bytes": 432,
+      "sha256": "64fa30c97788b02f583db10e5b69009ac6f8e3657a90bad08e3ceb47d584dda7"
+    },
+    {
+      "path": "releases/2026.05.28.001/manifest_snapshot.json",
+      "size_bytes": 865,
+      "sha256": "33a8c38848fd0b62ec583689f12122f832fac433fa343e35b7e2f75513fc89bb"
+    },
+    {
+      "path": "releases/2026.05.28.001/release.json",
+      "size_bytes": 799,
+      "sha256": "7c4bb46611f96b95f737689405cb10620eb95fef2a958f02f10c257ea9d6c86b"
+    },
+    {
+      "path": "releases/2026.05.28.001/report.md",
+      "size_bytes": 1259,
+      "sha256": "e15b19ef1347ab562cf857d2a7a3c10df4cd303a30ea10728102b37571198c50"
+    },
+    {
+      "path": "releases/2026.05.28.001/validation.json",
+      "size_bytes": 1082,
+      "sha256": "5b2ca07504d6931edf4d2d6d69d051e52ad34ef7826ed1b638ccc09467c6d8a2"
+    },
+    {
+      "path": "releases/2026.05.28.002/diff.json",
+      "size_bytes": 426,
+      "sha256": "3e749c63107667241f1aefd3e9e200ea6e89c1cb412ce80255b5d5702a87c7ad"
+    },
+    {
+      "path": "releases/2026.05.28.002/manifest_snapshot.json",
+      "size_bytes": 872,
+      "sha256": "345a2d1ba63aabc6cf30fe1ec9efb79dc6bd8c26931b838d24b6635ddec39aab"
+    },
+    {
+      "path": "releases/2026.05.28.002/packs_snapshot.json",
+      "size_bytes": 3398,
+      "sha256": "1df9064405ffe079aeeaca751f58428ddaa4891bc533c9c1bea0e7b3ffbcd230"
+    },
+    {
+      "path": "releases/2026.05.28.002/release.json",
+      "size_bytes": 358,
+      "sha256": "e823b2cbab6050d2815b63ecd56ce786e3068f480fc1c57e9a19f76586ead031"
+    },
+    {
+      "path": "releases/2026.05.28.002/report.md",
+      "size_bytes": 719,
+      "sha256": "b5dc2cc708c8c37715f3750300d8dbb2cd1236b51dfc5cb73bd8e7acc908f2d0"
+    },
+    {
+      "path": "releases/2026.05.28.002/validation.json",
+      "size_bytes": 995,
+      "sha256": "6b2f8b83f6539581f10244a9297ed943e7bd6712d9f618c746e6ac259115c1e4"
+    },
+    {
+      "path": "releases/2026.05.28.003/diff.json",
+      "size_bytes": 276,
+      "sha256": "a308c724a240b8a938e93efb7944d7d1b6bf81105337ba5adb82b0efa35350db"
+    },
+    {
+      "path": "releases/2026.05.28.003/manifest_snapshot.json",
+      "size_bytes": 872,
+      "sha256": "9a4125f24b34f00eb78d40e16f20b4b9f1be4bbd39d4f29538c3f5aa19854881"
+    },
+    {
+      "path": "releases/2026.05.28.003/packs_snapshot.json",
+      "size_bytes": 3398,
+      "sha256": "1df9064405ffe079aeeaca751f58428ddaa4891bc533c9c1bea0e7b3ffbcd230"
+    },
+    {
+      "path": "releases/2026.05.28.003/release.json",
+      "size_bytes": 340,
+      "sha256": "cb7bbc8a37bca9c8f2cb1c48d46cbc51b253fe8cb9e27f30d27dbf5bd22ced80"
+    },
+    {
+      "path": "releases/2026.05.28.003/report.md",
+      "size_bytes": 597,
+      "sha256": "3e0c88320ebdb93c45cc785abc68f45e7aee9acdcfc478baf461236d4477237d"
+    },
+    {
+      "path": "releases/2026.05.28.003/validation.json",
+      "size_bytes": 995,
+      "sha256": "49ea4e7b7210f8bb6770ccd955fa18c3fa532e9e6b5fc2236319a5a4c94d2d06"
+    },
+    {
+      "path": "releases/2026.05.28.004/diff.json",
+      "size_bytes": 276,
+      "sha256": "35e3918ceef97ece078cf98e595c02408be2cc8bff7593cc09e68b2ad3ffa28a"
+    },
+    {
+      "path": "releases/2026.05.28.004/manifest_snapshot.json",
+      "size_bytes": 872,
+      "sha256": "1bcf8866850ed41ad252439e5ff40a14a8b14a7fa1a1fce79fe074b774b0aba6"
+    },
+    {
+      "path": "releases/2026.05.28.004/packs_snapshot.json",
+      "size_bytes": 3405,
+      "sha256": "c0e83c2cbccc4df5661fda988e6e19f8ae91f1ce58118240e52d11877757f598"
+    },
+    {
+      "path": "releases/2026.05.28.004/release.json",
+      "size_bytes": 350,
+      "sha256": "a8bb8d72177e42adeef3b17674bcdffab43b510cbcb0c9ec0b710ed87e6d8ea3"
+    },
+    {
+      "path": "releases/2026.05.28.004/report.md",
+      "size_bytes": 615,
+      "sha256": "035b40c08f668449154e7806f81d6d4c23f6eaf48eddc3adcbad53a54fe7e5b0"
+    },
+    {
+      "path": "releases/2026.05.28.004/validation.json",
+      "size_bytes": 2072,
+      "sha256": "807bdeb95e5889e2bb4777bccffb7e1feab83a6c8a32e81dae61fe3feff9b926"
+    },
+    {
+      "path": "releases/2026.05.28.005/diff.json",
+      "size_bytes": 276,
+      "sha256": "eec58500e0fa410875d34c5191693cd9fbe44747db9d659881e320115e5490e2"
+    },
+    {
+      "path": "releases/2026.05.28.005/manifest_snapshot.json",
+      "size_bytes": 872,
+      "sha256": "299b3dfac846f40ed17a2ed0e2d4b672cfa72d13063438a57b8122cc450c48c5"
+    },
+    {
+      "path": "releases/2026.05.28.005/packs_snapshot.json",
+      "size_bytes": 3405,
+      "sha256": "3279f59e174da774ea1edaadb445f68e50d895b4810c492b1b33b79a180b26dd"
+    },
+    {
+      "path": "releases/2026.05.28.005/release.json",
+      "size_bytes": 360,
+      "sha256": "b7e63ef991d8c3e138757a5967772a1cbae2dbba0e3062d627d0fb8cf95970b6"
+    },
+    {
+      "path": "releases/2026.05.28.005/report.md",
+      "size_bytes": 625,
+      "sha256": "c90a3a3e50afd41006038be3611be38c813e3782fe4a5e5e948918ddef8a3675"
+    },
+    {
+      "path": "releases/2026.05.28.005/validation.json",
+      "size_bytes": 2072,
+      "sha256": "40d4c2c000a35bd93114d8aace9b761e170d0445c939a542f7c01a2911d19f73"
+    },
+    {
+      "path": "releases/2026.05.28.006/diff.json",
+      "size_bytes": 276,
+      "sha256": "9b0002647b1ae54dbefd018071c665a18bb8c021c76bded2b7033671ba117379"
+    },
+    {
+      "path": "releases/2026.05.28.006/file_checksums.json",
+      "size_bytes": 8273,
+      "sha256": "aee7df82a8d273326dbf386bee3085486682964b390ac9b576c5281b0ce49f3f"
+    },
+    {
+      "path": "releases/2026.05.28.006/manifest_snapshot.json",
+      "size_bytes": 872,
+      "sha256": "abae040e84e019656309dfd44df0cc3b10d8b1877872ce6d36fff5c4e81aad74"
+    },
+    {
+      "path": "releases/2026.05.28.006/packs_snapshot.json",
+      "size_bytes": 3405,
+      "sha256": "542b3d831794f0938d5b74c9b9df7394f0770cf6143822720b9e03f9c839ac6e"
+    },
+    {
+      "path": "releases/2026.05.28.006/release.json",
+      "size_bytes": 358,
+      "sha256": "0e458ceebf3d3a898ba82a10140ee2f1f9a181f29e8c7fa3536410d68b2ed7a0"
+    },
+    {
+      "path": "releases/2026.05.28.006/report.md",
+      "size_bytes": 625,
+      "sha256": "c11fa610bf4ace8a2f5f8d03b4251a0ee4de29c2b35a2f23c7d9b03a6cabee9b"
+    },
+    {
+      "path": "releases/2026.05.28.006/validation.json",
+      "size_bytes": 2072,
+      "sha256": "10cb7de6db23d7683e82b7d240487cff3e2fef9b58612024539db3a8f5c58e8d"
+    },
+    {
+      "path": "releases/2026.05.28.007/diff.json",
+      "size_bytes": 276,
+      "sha256": "df5087ac62ed7a9b5b3cbb9e51fa7cc9c700048edb779ec1e0a9f6821f4a8dba"
+    },
+    {
+      "path": "releases/2026.05.28.007/file_checksums.json",
+      "size_bytes": 9522,
+      "sha256": "e269336e516c6554f06a491debe6399fcd93d9c68c4166914d46617dc4e5130e"
+    },
+    {
+      "path": "releases/2026.05.28.007/manifest_snapshot.json",
+      "size_bytes": 872,
+      "sha256": "d9c029636f685b2030d5136b86a1ea093c15e533480d25bc9477fe21492e3513"
+    },
+    {
+      "path": "releases/2026.05.28.007/packs_snapshot.json",
+      "size_bytes": 3405,
+      "sha256": "300bb94673b9e86be6cbccea35068c271f87e3025185cc24c7a704fdd2a333b2"
+    },
+    {
+      "path": "releases/2026.05.28.007/release.json",
+      "size_bytes": 350,
+      "sha256": "65e74831b9e04e55b47bb2cb380a46d91252a6fe56ca956c53670c1eb1fc8c3d"
+    },
+    {
+      "path": "releases/2026.05.28.007/report.md",
+      "size_bytes": 617,
+      "sha256": "e175bacac208923a19bb2a055555d80958887e82793ef65abd5efb28cd3f3b7c"
+    },
+    {
+      "path": "releases/2026.05.28.007/validation.json",
+      "size_bytes": 2072,
+      "sha256": "ee5c4e06e7d009a73c66f92c98c0bfcdefbf9176196ad960dfeea810be9eebb1"
+    },
+    {
+      "path": "releases/2026.05.28.008/diff.json",
+      "size_bytes": 287,
+      "sha256": "a9a070c8f732db0438a1abf2c34f85fdbba6dde6518ac65c61f9dda9c41a3577"
+    },
+    {
+      "path": "releases/2026.05.28.008/file_checksums.json",
+      "size_bytes": 11077,
+      "sha256": "38f1a40e8a4e9a2753f53da6205c381866eb5b6502ccbdb49159aac0f8b30bec"
+    },
+    {
+      "path": "releases/2026.05.28.008/manifest_snapshot.json",
+      "size_bytes": 892,
+      "sha256": "9c8d03abdc71e045be9618a5570784bf35b1531d3cf3e6116cb5e82150bdf3ec"
+    },
+    {
+      "path": "releases/2026.05.28.008/packs_snapshot.json",
+      "size_bytes": 3536,
+      "sha256": "270d3c5ae90d82336f89e7810d16c646a22571240a0070d23e9d2bae9fd9bf48"
+    },
+    {
+      "path": "releases/2026.05.28.008/release.json",
+      "size_bytes": 364,
+      "sha256": "16b8562d1aeadf5451831e776c51ca940b3d36736fd664e32163ddd4525760fe"
+    },
+    {
+      "path": "releases/2026.05.28.008/report.md",
+      "size_bytes": 671,
+      "sha256": "3bb32b45f07263b1865c52f535125a0b4a145c1d4f17e84bc805e7ab472740af"
+    },
+    {
+      "path": "releases/2026.05.28.008/validation.json",
+      "size_bytes": 2173,
+      "sha256": "cd84c73e7a448ee77e4b495da8fd8e37783223591647b72d34d25373d5bca1ab"
+    },
+    {
+      "path": "releases/2026.05.28.009/diff.json",
+      "size_bytes": 287,
+      "sha256": "994d9a984dbf096eb2293eb65e818de09316e009b8abd489ca9ccb5724dff5c2"
+    },
+    {
+      "path": "releases/2026.05.28.009/file_checksums.json",
+      "size_bytes": 12362,
+      "sha256": "6c1a79c834c63b484fa4e7824c2f78caf55c9d06dbcead86fb3828a53b7d2449"
+    },
+    {
+      "path": "releases/2026.05.28.009/manifest_snapshot.json",
+      "size_bytes": 892,
+      "sha256": "99f85507c2f1d7cc010673ae66812249af1de22f40835d4631ee88f846517920"
+    },
+    {
+      "path": "releases/2026.05.28.009/packs_snapshot.json",
+      "size_bytes": 3536,
+      "sha256": "991d42ba19d2044600ae0a8c0f99759dd1f78c13a8dd1d599329ac5c84bbae22"
+    },
+    {
+      "path": "releases/2026.05.28.009/release.json",
+      "size_bytes": 364,
+      "sha256": "f9187a92a7ea369639662a30904f199d90402aeedc70f25deebf3ff21da4714b"
+    },
+    {
+      "path": "releases/2026.05.28.009/report.md",
+      "size_bytes": 671,
+      "sha256": "f3d66fd7c981f645a3fa611f163ca64062c53ac4d08613bb88da1fa701b8bc1a"
+    },
+    {
+      "path": "releases/2026.05.28.009/validation.json",
+      "size_bytes": 2173,
+      "sha256": "d30ee0d2b98c98c4e7802d8e9f190ad4707418cbe32f249adb2c50d56d0a217a"
+    },
+    {
+      "path": "releases/2026.05.28.010/diff.json",
+      "size_bytes": 287,
+      "sha256": "7a77b4621b912d30b8c3c71367698656e223e76a9161e74e9380fa0ef21b6bef"
+    },
+    {
+      "path": "releases/2026.05.28.010/file_checksums.json",
+      "size_bytes": 13647,
+      "sha256": "89c7c673b7b301d2090a58c25e395f80de5d6515014551218f56bb0ee840bac3"
+    },
+    {
+      "path": "releases/2026.05.28.010/manifest_snapshot.json",
+      "size_bytes": 892,
+      "sha256": "573799881b445856c568496409399411e4554cd108842dc8a31c337a13ae1ea5"
+    },
+    {
+      "path": "releases/2026.05.28.010/packs_snapshot.json",
+      "size_bytes": 3536,
+      "sha256": "c0c41701d41ba31920fae0537ecbc2b1c7b7731d23eccef349d9e55575d13c94"
+    },
+    {
+      "path": "releases/2026.05.28.010/release.json",
+      "size_bytes": 364,
+      "sha256": "db2bbe87c6bbe2c7a84041f041acf02c658e76fca4e619d66f807274147c7c31"
+    },
+    {
+      "path": "releases/2026.05.28.010/report.md",
+      "size_bytes": 671,
+      "sha256": "f0baf5b784a43a41b7df8d7afec21a1df953ac069c3fd734e5d2617684a9c315"
+    },
+    {
+      "path": "releases/2026.05.28.010/validation.json",
+      "size_bytes": 2173,
+      "sha256": "7f20ff67554bda37fe8998e7fb8aa4868f1979d753c002f782fbc51340e5f4d2"
+    },
+    {
+      "path": "releases/2026.05.28.011/diff.json",
+      "size_bytes": 287,
+      "sha256": "aa3f3742b4361eff9c79cfca9692575fc1338e5837a9242a168c473836a0fdf6"
+    },
+    {
+      "path": "releases/2026.05.28.011/file_checksums.json",
+      "size_bytes": 14932,
+      "sha256": "5cc3297c4490f931f6f1463709ad2f427753aeff9f95f4e8d4acbefe20270d44"
+    },
+    {
+      "path": "releases/2026.05.28.011/manifest_snapshot.json",
+      "size_bytes": 892,
+      "sha256": "949a08a661f9c034ce1fd72c233d58e6903d8c3b64963d5192422879c7e445a4"
+    },
+    {
+      "path": "releases/2026.05.28.011/packs_snapshot.json",
+      "size_bytes": 3536,
+      "sha256": "c5b316ed7d1c2482686ec50e47a93a4678f8aea098b3309a680702c1238191c0"
+    },
+    {
+      "path": "releases/2026.05.28.011/release.json",
+      "size_bytes": 364,
+      "sha256": "42a096a95475cb77c0d5fc2cb7cf59f839c9b0db8b2d121aabfaf359eb74a28f"
+    },
+    {
+      "path": "releases/2026.05.28.011/report.md",
+      "size_bytes": 671,
+      "sha256": "359c118d912e9218d81e7050b5348c97c74a5f39cbf9e6393c93bae516dadddd"
+    },
+    {
+      "path": "releases/2026.05.28.011/validation.json",
+      "size_bytes": 2173,
+      "sha256": "4a8db7c7323823f2c9449d34601dc42379c6fc2309753f6638ad689dd9e0c460"
+    },
+    {
+      "path": "releases/2026.05.28.012/diff.json",
+      "size_bytes": 287,
+      "sha256": "1c8dbb3539ab7603974a46e1492fb949bf10b408181ef73fd6b62f3078bca939"
+    },
+    {
+      "path": "releases/2026.05.28.012/manifest_snapshot.json",
+      "size_bytes": 892,
+      "sha256": "62d90a3e74abc16c4fc03e155d223296531d5d4776f2da86317cef938a04558c"
+    },
+    {
+      "path": "releases/2026.05.28.012/packs_snapshot.json",
+      "size_bytes": 3536,
+      "sha256": "43abc77a0b48a3b0e461caba926314d7fe364c384c04b776aee9899c751a3c2f"
+    },
+    {
+      "path": "releases/2026.05.28.012/release.json",
+      "size_bytes": 364,
+      "sha256": "eb8e580a45b263db2345d046003f8d2578fe925384ba6011da4211473645ac1f"
+    },
+    {
+      "path": "releases/2026.05.28.012/report.md",
+      "size_bytes": 671,
+      "sha256": "1e9933dce86670860ff1855db8c09698a8937b4fdbb3d01b18793f1715dd3c20"
+    },
+    {
+      "path": "releases/2026.05.28.012/validation.json",
+      "size_bytes": 2173,
+      "sha256": "729f63663d0e136c2dd341f027e248a33c8898e16483b013a2fb4590c7decd15"
+    },
+    {
+      "path": "thumbs/motions/hw_haoshiduo/hw_haoshiduo_motion_001.webp",
+      "size_bytes": 10424,
+      "sha256": "82fdaff2d0d584f791e1e83ed22ea1fb18fac8c5696f8b4991ea5644f9dfeb51"
+    },
+    {
+      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_001.webp",
+      "size_bytes": 11122,
+      "sha256": "79a30f07a81f2ee7761bb9c1ced2efde070fbb0b19f2d0cbf5b23e66f73adfa3"
+    },
+    {
+      "path": "thumbs/stickers/hw_haoshiduo/hw_haoshiduo_002.webp",
+      "size_bytes": 11356,
+      "sha256": "90643763d1f06ad5db396c9c1dcf9885bb058ac8468e62afec27d6b790353fbc"
+    }
+  ]
+}
