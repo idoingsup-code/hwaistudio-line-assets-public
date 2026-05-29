@@ -1,7 +1,31 @@
 {
-  "latest_version": "2026.05.29.003",
-  "updated_at": "2026-05-29T10:53:26.613147+08:00",
+  "latest_version": "2026.05.30.002",
+  "updated_at": "2026-05-30T00:24:57.819388+08:00",
   "releases": [
+    {
+      "version": "2026.05.30.002",
+      "published_at": "2026-05-30T00:24:57.522779+08:00",
+      "title": "Official public asset release",
+      "summary": "本機發布包產生完成：素材包 9 個，素材 83 筆。",
+      "report": "releases/2026.05.30.002/report.md",
+      "release_file": "releases/2026.05.30.002/release.json",
+      "diff": "releases/2026.05.30.002/diff.json",
+      "validation": "releases/2026.05.30.002/validation.json",
+      "file_checksums": "releases/2026.05.30.002/file_checksums.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.30.001",
+      "published_at": "2026-05-30T00:23:52.577215+08:00",
+      "title": "黃魚鴞/運動/熱身操",
+      "summary": "本機發布包產生完成：素材包 9 個，素材 83 筆。",
+      "report": "releases/2026.05.30.001/report.md",
+      "release_file": "releases/2026.05.30.001/release.json",
+      "diff": "releases/2026.05.30.001/diff.json",
+      "validation": "releases/2026.05.30.001/validation.json",
+      "file_checksums": "releases/2026.05.30.001/file_checksums.json",
+      "status": "published_local"
+    },
     {
       "version": "2026.05.29.003",
       "published_at": "2026-05-29T10:53:26.474592+08:00",

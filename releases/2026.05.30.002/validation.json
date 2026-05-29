@@ -1,0 +1,132 @@
+{
+  "version": "2026.05.30.002",
+  "checked_at": "2026-05-30T00:24:57.962893+08:00",
+  "result": "passed",
+  "errors": [],
+  "warnings": [
+    "檔案大小警告：assets/stickers/owl_sports/owl_sports_03.png 2.08MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_sports/owl_sports_13.png 2.04MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_sports/owl_sports_14.png 2.01MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_sports/owl_sports_15.png 2.08MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_02.png 2.06MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_03.png 2.14MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_05.png 2.01MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_07.png 2.13MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_08.png 2.02MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_09.png 2.07MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_13.png 2.01MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_14.png 2.09MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_15.png 2.20MB > 2.0MB",
+    "檔案大小警告：assets/stickers/owl_warmup/owl_warmup_16.png 2.02MB > 2.0MB"
+  ],
+  "checks": [
+    {
+      "name": "required_public_files",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "allowed_public_top_level",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "duplicate_pack_ids",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "duplicate_item_ids",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "item_pack_references",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "pack_icon_references",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "pack_group_references",
+      "status": "passed",
+      "severity": "warning",
+      "detail": []
+    },
+    {
+      "name": "valid_media_type",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "missing_files",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "missing_thumbs",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "file_size_limits",
+      "status": "failed",
+      "severity": "warning",
+      "detail": [
+        "assets/stickers/owl_sports/owl_sports_03.png 2.08MB > 2.0MB",
+        "assets/stickers/owl_sports/owl_sports_13.png 2.04MB > 2.0MB",
+        "assets/stickers/owl_sports/owl_sports_14.png 2.01MB > 2.0MB",
+        "assets/stickers/owl_sports/owl_sports_15.png 2.08MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_02.png 2.06MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_03.png 2.14MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_05.png 2.01MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_07.png 2.13MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_08.png 2.02MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_09.png 2.07MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_13.png 2.01MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_14.png 2.09MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_15.png 2.20MB > 2.0MB",
+        "assets/stickers/owl_warmup/owl_warmup_16.png 2.02MB > 2.0MB"
+      ]
+    },
+    {
+      "name": "sha256",
+      "status": "passed",
+      "severity": "warning",
+      "detail": []
+    },
+    {
+      "name": "public_dist_forbidden_names",
+      "status": "passed",
+      "severity": "error",
+      "detail": []
+    },
+    {
+      "name": "manifest_integrity",
+      "status": "passed",
+      "severity": "warning",
+      "detail": []
+    },
+    {
+      "name": "version_consistency",
+      "status": "passed",
+      "severity": "warning",
+      "detail": {
+        "manifest": "2026.05.30.002",
+        "release_index": "2026.05.30.002"
+      }
+    }
+  ]
+}
