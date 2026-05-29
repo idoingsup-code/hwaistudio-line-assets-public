@@ -228,3 +228,28 @@ v0.9.18 測試重點：
 1. 每次程式或素材流程更新都必須同步更新 `README.md`、`docs/` 與 `reports/`。
 2. 不再用補丁式命名堆疊不明檔案；每版需有明確版本號與更新報告。
 3. MP4 影片功能暫停，不再混入貼圖或 GIF 流程。
+
+---
+
+## v0.9.22 匯入檔名解析修正
+
+AI 生圖後匯入素材時，建議檔名採：
+
+```text
+owl_01_不飽.png
+owl_02_巴豆夭.png
+owl_03_30萬，給我！.png
+```
+
+匯入後會解析為：
+
+```text
+ID：owl_01
+標題：不飽
+```
+
+素材包 ID 不會再被加到單張素材 ID 前面。若已經匯入成長 ID，可執行：
+
+```bat
+py -3 admin\tools\normalize_imported_asset_names.py "%CD%" tawny_fish_owl_ear
+```

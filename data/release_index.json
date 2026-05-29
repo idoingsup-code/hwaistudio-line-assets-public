@@ -1,7 +1,43 @@
 {
-  "latest_version": "2026.05.28.021",
-  "updated_at": "2026-05-28T23:25:34.264061+08:00",
+  "latest_version": "2026.05.29.003",
+  "updated_at": "2026-05-29T10:53:26.613147+08:00",
   "releases": [
+    {
+      "version": "2026.05.29.003",
+      "published_at": "2026-05-29T10:53:26.474592+08:00",
+      "title": "Official public asset release",
+      "summary": "本機發布包產生完成：素材包 7 個，素材 51 筆。",
+      "report": "releases/2026.05.29.003/report.md",
+      "release_file": "releases/2026.05.29.003/release.json",
+      "diff": "releases/2026.05.29.003/diff.json",
+      "validation": "releases/2026.05.29.003/validation.json",
+      "file_checksums": "releases/2026.05.29.003/file_checksums.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.29.002",
+      "published_at": "2026-05-29T10:52:57.047514+08:00",
+      "title": "素材發布",
+      "summary": "本機發布包產生完成：素材包 7 個，素材 51 筆。",
+      "report": "releases/2026.05.29.002/report.md",
+      "release_file": "releases/2026.05.29.002/release.json",
+      "diff": "releases/2026.05.29.002/diff.json",
+      "validation": "releases/2026.05.29.002/validation.json",
+      "file_checksums": "releases/2026.05.29.002/file_checksums.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.29.001",
+      "published_at": "2026-05-29T10:51:45.830436+08:00",
+      "title": "名稱修正",
+      "summary": "本機發布包產生完成：素材包 7 個，素材 51 筆。",
+      "report": "releases/2026.05.29.001/report.md",
+      "release_file": "releases/2026.05.29.001/release.json",
+      "diff": "releases/2026.05.29.001/diff.json",
+      "validation": "releases/2026.05.29.001/validation.json",
+      "file_checksums": "releases/2026.05.29.001/file_checksums.json",
+      "status": "published_local"
+    },
     {
       "version": "2026.05.28.021",
       "published_at": "2026-05-28T23:25:34.126944+08:00",
